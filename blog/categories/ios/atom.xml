@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | Josh’s Random Ramblings]]></title>
   <link href="http://jobbogamer.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://jobbogamer.github.io/"/>
-  <updated>2013-12-29T20:58:13+00:00</updated>
+  <updated>2013-12-29T21:02:01+00:00</updated>
   <id>http://jobbogamer.github.io/</id>
   <author>
     <name><![CDATA[Josh Asch]]></name>
@@ -18,11 +18,11 @@
     <link href="http://jobbogamer.github.io/blog/2013/12/29/i-made-a-thing-emojiboard/"/>
     <updated>2013-12-29T13:23:00+00:00</updated>
     <id>http://jobbogamer.github.io/blog/2013/12/29/i-made-a-thing-emojiboard</id>
-    <content type="html"><![CDATA[<h1>I Made A Thing: EmojiBoard</h1>
+    <content type="html"><![CDATA[<p>I like to use Emoji symbols when I&rsquo;m using my iPhone or iPad, but I don&rsquo;t like having to keep the Emoji keyboard turned on. I always end up hitting the &lsquo;change keyboard&rsquo; button by accident. I set up a few text shortcuts to the symbols I use the most, but there&rsquo;s no easy way to access the other symbols. So I made one.</p>
 
-<p>I like to use Emoji symbols when I&rsquo;m using my iPhone or iPad, but I don&rsquo;t like having to keep the Emoji keyboard turned on. I always end up hitting the &lsquo;change keyboard&rsquo; button by accident. I set up a few text shortcuts to the symbols I use the most, but there&rsquo;s no easy way to access the other symbols. So I made one.
-<img src="/images/2013/12/29/EmojiBoard.png" alt="EmojiBoard" />
-I call it EmojiBoard. It&rsquo;s a web app which lists all the Emoji symbols that work on iOS, allowing them to be copied for use in any app. It&rsquo;s laid out in the exact same way as the Emoji keyboard to make it easy to find certain symbols, and there&rsquo;s a recents section at the top which collects the 21 most recent symbols you&rsquo;ve used.</p>
+<p><img src="/images/2013/12/29/EmojiBoard.png" alt="EmojiBoard" /></p>
+
+<p>I call it EmojiBoard. It&rsquo;s a web app which lists all the Emoji symbols that work on iOS, allowing them to be copied for use in any app. It&rsquo;s laid out in the exact same way as the Emoji keyboard to make it easy to find certain symbols, and there&rsquo;s a recents section at the top which collects the 21 most recent symbols you&rsquo;ve used.</p>
 
 <p>It works best on iPhone and iPad, and will probably work on Android, but doesn&rsquo;t work on desktop, since it relies on touch.</p>
 
@@ -51,9 +51,11 @@ I call it EmojiBoard. It&rsquo;s a web app which lists all the Emoji symbols tha
 
 <h3>Play for territory</h3>
 
-<p>Since you need to own the most tiles to win the game, protect the ones you own by surrounding them on all sides. The best way to do this is to start in one corner and work outwards. Here&rsquo;s an example of what I mean, starting from the lower right corner:
-<img src="/images/2012/12/23/Letterpress-Territory-Example.png" alt="" />
-Playing this way might not keep the most important letters protected (if there is only one E, for example, you&rsquo;d probably want to grab that early on), but it means you most likely have more tiles protected than your opponent.</p>
+<p>Since you need to own the most tiles to win the game, protect the ones you own by surrounding them on all sides. The best way to do this is to start in one corner and work outwards. Here&rsquo;s an example of what I mean, starting from the lower right corner:</p>
+
+<p><img src="/images/2012/12/23/Letterpress-Territory-Example.png" alt="" /></p>
+
+<p>Playing this way might not keep the most important letters protected (if there is only one E, for example, you&rsquo;d probably want to grab that early on), but it means you most likely have more tiles protected than your opponent.</p>
 
 <h3>Have fun</h3>
 
@@ -78,11 +80,15 @@ Playing this way might not keep the most important letters protected (if there i
     <link href="http://jobbogamer.github.io/blog/2012/12/11/longer-passcode-on-ios/"/>
     <updated>2012-12-11T21:15:00+00:00</updated>
     <id>http://jobbogamer.github.io/blog/2012/12/11/longer-passcode-on-ios</id>
-    <content type="html"><![CDATA[<p>Use a passcode to keep your iPhone or iPad safe, but think four digit codes aren’t long enough? Since iOS 5, there has been an option to swap the 4-digit numerical passcode for an arbitrary length alphanumeric one. To set up a longer passcode, open Settings then select General → Passcode Lock. Now turn the Simple Passcode switch to the Off position.
-<img src="/images/2012/12/11/Passcode-Lock-Settings.png" alt="" />
-You’ll be prompted to enter your current passcode (if you have one), and then to enter your new passcode. With Simple Passcode turned off, you can enter either numbers, letters or both. However, if you only use numbers in your new passcode, you’ll still be given the numerical keyboard on the lock screen.
-<img src="/images/2012/12/11/Long-Passcode-Lock-Screen.png" alt="" />
-You can also add letters to the passcode, but the regular iOS keyboard will show up on the lock screen instead.</p>
+    <content type="html"><![CDATA[<p>Use a passcode to keep your iPhone or iPad safe, but think four digit codes aren’t long enough? Since iOS 5, there has been an option to swap the 4-digit numerical passcode for an arbitrary length alphanumeric one. To set up a longer passcode, open Settings then select General → Passcode Lock. Now turn the Simple Passcode switch to the Off position.</p>
+
+<p><img src="/images/2012/12/11/Passcode-Lock-Settings.png" alt="" /></p>
+
+<p>You’ll be prompted to enter your current passcode (if you have one), and then to enter your new passcode. With Simple Passcode turned off, you can enter either numbers, letters or both. However, if you only use numbers in your new passcode, you’ll still be given the numerical keyboard on the lock screen.</p>
+
+<p><img src="/images/2012/12/11/Long-Passcode-Lock-Screen.png" alt="" /></p>
+
+<p>You can also add letters to the passcode, but the regular iOS keyboard will show up on the lock screen instead.</p>
 ]]></content>
   </entry>
   

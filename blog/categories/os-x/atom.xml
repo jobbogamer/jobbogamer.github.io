@@ -4,7 +4,7 @@
   <title><![CDATA[Category: OS X | Josh’s Random Ramblings]]></title>
   <link href="http://jobbogamer.github.io/blog/categories/os-x/atom.xml" rel="self"/>
   <link href="http://jobbogamer.github.io/"/>
-  <updated>2013-12-29T20:58:13+00:00</updated>
+  <updated>2013-12-29T21:02:01+00:00</updated>
   <id>http://jobbogamer.github.io/</id>
   <author>
     <name><![CDATA[Josh Asch]]></name>
@@ -18,8 +18,9 @@
     <link href="http://jobbogamer.github.io/blog/2013/12/27/disable-automatic-emoji-in-messages-on-mavericks/"/>
     <updated>2013-12-27T12:46:00+00:00</updated>
     <id>http://jobbogamer.github.io/blog/2013/12/27/disable-automatic-emoji-in-messages-on-mavericks</id>
-    <content type="html"><![CDATA[<p>Version 8.0 of Messages.app, shipped with OS X Mavericks, has a new feature which automatically inserts Emoji symbols when you type common text emoticons, such as replacing &ldquo;:)&rdquo; with a smiling Emoji face. Personally, I prefer to send the actual text rather than an Emoji symbol, but I couldn&rsquo;t find anywhere in the app&rsquo;s preferences to turn it off. After a lot of searching, it turns out the answer is simple. Just click in the text field in Messages and deselect <strong>Edit → Substitutions → Emoji</strong> <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, and emoticons will no longer be replaced with Emoji symbols.
-<img src="/images/2013/12/27/Disable-Emoji.png" alt="Disable Emoji" /></p>
+    <content type="html"><![CDATA[<p>Version 8.0 of Messages.app, shipped with OS X Mavericks, has a new feature which automatically inserts Emoji symbols when you type common text emoticons, such as replacing &ldquo;:)&rdquo; with a smiling Emoji face. Personally, I prefer to send the actual text rather than an Emoji symbol, but I couldn&rsquo;t find anywhere in the app&rsquo;s preferences to turn it off. After a lot of searching, it turns out the answer is simple. Just click in the text field in Messages and deselect <strong>Edit → Substitutions → Emoji</strong> <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, and emoticons will no longer be replaced with Emoji symbols.</p>
+
+<p><img src="/images/2013/12/27/Disable-Emoji.png" alt="Disable Emoji" /></p>
 <div class="footnotes">
 <hr/>
 <ol>
@@ -36,15 +37,23 @@
     <link href="http://jobbogamer.github.io/blog/2013/04/11/itunes-ocd-metaz/"/>
     <updated>2013-04-11T23:17:00+01:00</updated>
     <id>http://jobbogamer.github.io/blog/2013/04/11/itunes-ocd-metaz</id>
-    <content type="html"><![CDATA[<p>If you&rsquo;re anything like me, you like your iTunes library to look neat and tidy, and to contain all the information it&rsquo;s supposed to, even if your content didn&rsquo;t come from the iTunes Store. For instance, in iTunes 11, the Description field for movies and TV shows became much more prominent. So prominent, in fact, that it purposefully points out that the description is missing if you haven&rsquo;t added one.
-<img src="/images/2013/04/11/No-Description-Available.png" alt="No Description Available" />
-Short of describing movies and episodes of TV shows yourself in 256 characters, there&rsquo;s no way to consistently add the Description in. That is, unless you use <a href="http://griff.github.io/metaz/">MetaZ</a>. MetaZ is a new implementation of MetaX, a tagging program which stopped getting updated a while back. It allows you to load in any video file and update its MP4 metadata, which iTunes can then read and display.
-<img src="/images/2013/04/11/MetaZ-Main-Window.png" alt="MetaZ Main Window" />
-Using MetaZ, metadata fields that aren&rsquo;t editable in iTunes can be edited and saved. For example, the Date field cannot be set in the Get Info panel in iTunes, but shows up when set:
-<img src="/images/2013/04/11/Episode-Dates.png" alt="Episode Dates" />
-You might be thinking, &ldquo;Great, now there&rsquo;s <em>even more</em> data I need to find so that my iTunes metadata is complete!&rdquo;, and you&rsquo;d be right. However, I haven&rsquo;t mentioned the best feature of MetaZ. After importing a video file, MetaZ will automatically search <a href="http://www.tagchimp.com">Tag Chimp</a>, <a href="http://www.themoviedb.org">TMDb</a> and <a href="http://thetvdb.com">The TVDb</a> to find the appropriate data for that file, including description, date and more. Simply select a file in the right-hand pane, then once MetaZ has finished searching, choose a metadata source in the left-hand pane. The middle pane will then update with the data from your chosen source. Select the checkbox next to each item you wish to save. You can also manually make changes in the text fields if you want.
-<img src="/images/2013/04/11/MetaZ-Loaded-Metadata.png" alt="MetaZ Loaded Metadata" />
-When you are finished editing, click Write in the toolbar and the metadata will be saved into the file. Once MetaZ has finished writing, iTunes should be updated automatically with the new data. I&rsquo;ve shown the process here with a TV show episode, but the same applies for movies as well.</p>
+    <content type="html"><![CDATA[<p>If you&rsquo;re anything like me, you like your iTunes library to look neat and tidy, and to contain all the information it&rsquo;s supposed to, even if your content didn&rsquo;t come from the iTunes Store. For instance, in iTunes 11, the Description field for movies and TV shows became much more prominent. So prominent, in fact, that it purposefully points out that the description is missing if you haven&rsquo;t added one.</p>
+
+<p><img src="/images/2013/04/11/No-Description-Available.png" alt="No Description Available" /></p>
+
+<p>Short of describing movies and episodes of TV shows yourself in 256 characters, there&rsquo;s no way to consistently add the Description in. That is, unless you use <a href="http://griff.github.io/metaz/">MetaZ</a>. MetaZ is a new implementation of MetaX, a tagging program which stopped getting updated a while back. It allows you to load in any video file and update its MP4 metadata, which iTunes can then read and display.</p>
+
+<p><img src="/images/2013/04/11/MetaZ-Main-Window.png" alt="MetaZ Main Window" /></p>
+
+<p>Using MetaZ, metadata fields that aren&rsquo;t editable in iTunes can be edited and saved. For example, the Date field cannot be set in the Get Info panel in iTunes, but shows up when set:</p>
+
+<p><img src="/images/2013/04/11/Episode-Dates.png" alt="Episode Dates" /></p>
+
+<p>You might be thinking, &ldquo;Great, now there&rsquo;s <em>even more</em> data I need to find so that my iTunes metadata is complete!&rdquo;, and you&rsquo;d be right. However, I haven&rsquo;t mentioned the best feature of MetaZ. After importing a video file, MetaZ will automatically search <a href="http://www.tagchimp.com">Tag Chimp</a>, <a href="http://www.themoviedb.org">TMDb</a> and <a href="http://thetvdb.com">The TVDb</a> to find the appropriate data for that file, including description, date and more. Simply select a file in the right-hand pane, then once MetaZ has finished searching, choose a metadata source in the left-hand pane. The middle pane will then update with the data from your chosen source. Select the checkbox next to each item you wish to save. You can also manually make changes in the text fields if you want.</p>
+
+<p><img src="/images/2013/04/11/MetaZ-Loaded-Metadata.png" alt="MetaZ Loaded Metadata" /></p>
+
+<p>When you are finished editing, click Write in the toolbar and the metadata will be saved into the file. Once MetaZ has finished writing, iTunes should be updated automatically with the new data. I&rsquo;ve shown the process here with a TV show episode, but the same applies for movies as well.</p>
 ]]></content>
   </entry>
   
@@ -62,10 +71,20 @@ When you are finished editing, click Write in the toolbar and the metadata will 
 <p>What you need to do is convert those files to MP3 format. However, in order to do that, you need to get back the &ldquo;Create MP3 Version&rdquo; option. Here&rsquo;s how:</p>
 
 <ol>
-<li><p> Open the iTunes Preferences and then open the General tab of the preferences.
-<img src="/images/2011/08/16/recover-itunes-missing-create-mp3-version/general_preferences.png" alt="" /></p></li>
-<li><p> Near the bottom is an option which starts &ldquo;When you insert a CD:&rdquo;. To the right of that is a button labelled &ldquo;Import Settings…&rdquo; – click that, and another window will open.
-<img src="/images/2011/08/16/recover-itunes-missing-create-mp3-version/import_settings.png" alt="" /></p></li>
+<li> Open the iTunes Preferences and then open the General tab of the preferences.</li>
+</ol>
+
+
+<p><img src="/images/2011/08/16/recover-itunes-missing-create-mp3-version/general_preferences.png" alt="" /></p>
+
+<ol>
+<li> Near the bottom is an option which starts &ldquo;When you insert a CD:&rdquo;. To the right of that is a button labelled &ldquo;Import Settings…&rdquo; – click that, and another window will open.</li>
+</ol>
+
+
+<p><img src="/images/2011/08/16/recover-itunes-missing-create-mp3-version/import_settings.png" alt="" /></p>
+
+<ol>
 <li><p> At the top is a drop down labelled &ldquo;Import Using:&rdquo;. Change that drop down to the &ldquo;MP3 Encoder&rdquo; option. Click OK on both windows and you&rsquo;re all set to convert tracks to MP3.</p></li>
 <li><p> To convert a track to MP3 format, right-click it and choose &ldquo;Create MP3 Version&rdquo;. iTunes will create a second copy of the track in MP3 format.</p></li>
 </ol>
@@ -95,10 +114,15 @@ When you are finished editing, click Write in the toolbar and the metadata will 
 <ol>
 <li> First off, you&rsquo;ll need to <a href="http://kevingessner.com/software/functionflip/">download</a> and install FunctionFlip. It&rsquo;s a preference pane, so you&rsquo;ll be able to access it from System Preferences in the future.</li>
 <li> Once it&rsquo;s installed, open it up in System Preferences (it should open automatically once it&rsquo;s installed). In the drop down list on the right, select the keyboard you&rsquo;d like to remap the key on.</li>
-<li> Now find Dashboard in the left-hand panel. It should be the fourth in the list. Check the box next to it, which will disable the special function of the key (Dashboard) and turn it into a regular F4 key.
-<img src="/images/2011/07/22/remap-the-dashboard-key-to-launchpad/functionflip.png" alt="" /></li>
-<li><p> Now click Show All at the top of System Preferences and navigate to the Keyboard preference pane. Open up the Keyboard Shortcuts tab once you&rsquo;re in there.</p></li>
-<li><p> In the left-hand side of that tab, click on Launchpad &amp; Dock. Now select Show Launchpad on the right-hand side. Double-click to the right of the selected row to edit the shortcut, then press F4 on your keyboard. That&rsquo;s it! Pressing the F4 key should now show Launchpad!</p></li>
+<li> Now find Dashboard in the left-hand panel. It should be the fourth in the list. Check the box next to it, which will disable the special function of the key (Dashboard) and turn it into a regular F4 key.</li>
+</ol>
+
+
+<p><img src="/images/2011/07/22/remap-the-dashboard-key-to-launchpad/functionflip.png" alt="" />
+  4. Now click Show All at the top of System Preferences and navigate to the Keyboard preference pane. Open up the Keyboard Shortcuts tab once you&rsquo;re in there.</p>
+
+<ol>
+<li> In the left-hand side of that tab, click on Launchpad &amp; Dock. Now select Show Launchpad on the right-hand side. Double-click to the right of the selected row to edit the shortcut, then press F4 on your keyboard. That&rsquo;s it! Pressing the F4 key should now show Launchpad!</li>
 </ol>
 
 
