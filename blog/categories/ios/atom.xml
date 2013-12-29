@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | Josh’s Random Ramblings]]></title>
   <link href="http://jobbogamer.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://jobbogamer.github.io/"/>
-  <updated>2013-12-29T21:15:40+00:00</updated>
+  <updated>2013-12-29T21:18:23+00:00</updated>
   <id>http://jobbogamer.github.io/</id>
   <author>
     <name><![CDATA[Josh Asch]]></name>
@@ -80,11 +80,11 @@
     <id>http://jobbogamer.github.io/blog/2012/12/11/longer-passcode-on-ios</id>
     <content type="html"><![CDATA[<p>Use a passcode to keep your iPhone or iPad safe, but think four digit codes aren’t long enough? Since iOS 5, there has been an option to swap the 4-digit numerical passcode for an arbitrary length alphanumeric one. To set up a longer passcode, open Settings then select General → Passcode Lock. Now turn the Simple Passcode switch to the Off position.</p>
 
-<p><img src="/images/2012/12/11/longer-passcode-ios/Passcode-Lock-Settings.png" alt="" /></p>
+<p><img src="/images/2012/12/11/longer-passcode-on-ios/Passcode-Lock-Settings.png" alt="" /></p>
 
 <p>You’ll be prompted to enter your current passcode (if you have one), and then to enter your new passcode. With Simple Passcode turned off, you can enter either numbers, letters or both. However, if you only use numbers in your new passcode, you’ll still be given the numerical keyboard on the lock screen.</p>
 
-<p><img src="/images/2012/12/11/longer-passcode-ios/Long-Passcode-Lock-Screen.png" alt="" /></p>
+<p><img src="/images/2012/12/11/longer-passcode-on-ios/Long-Passcode-Lock-Screen.png" alt="" /></p>
 
 <p>You can also add letters to the passcode, but the regular iOS keyboard will show up on the lock screen instead.</p>
 ]]></content>
