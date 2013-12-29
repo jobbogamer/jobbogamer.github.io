@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | Josh’s Random Ramblings]]></title>
   <link href="http://jobbogamer.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://jobbogamer.github.io/"/>
-  <updated>2013-12-29T21:08:41+00:00</updated>
+  <updated>2013-12-29T21:15:40+00:00</updated>
   <id>http://jobbogamer.github.io/</id>
   <author>
     <name><![CDATA[Josh Asch]]></name>
@@ -20,7 +20,7 @@
     <id>http://jobbogamer.github.io/blog/2013/12/29/i-made-a-thing-emojiboard</id>
     <content type="html"><![CDATA[<p>I like to use Emoji symbols when I&rsquo;m using my iPhone or iPad, but I don&rsquo;t like having to keep the Emoji keyboard turned on. I always end up hitting the &lsquo;change keyboard&rsquo; button by accident. I set up a few text shortcuts to the symbols I use the most, but there&rsquo;s no easy way to access the other symbols. So I made one.</p>
 
-<p><img src="/images/2013/12/29/EmojiBoard.png" alt="EmojiBoard" /></p>
+<p><img src="/images/2013/12/29/i-made-a-thing-emojiboard/EmojiBoard.png" alt="EmojiBoard" /></p>
 
 <p>I call it EmojiBoard. It&rsquo;s a web app which lists all the Emoji symbols that work on iOS, allowing them to be copied for use in any app. It&rsquo;s laid out in the exact same way as the Emoji keyboard to make it easy to find certain symbols, and there&rsquo;s a recents section at the top which collects the 21 most recent symbols you&rsquo;ve used.</p>
 
@@ -60,8 +60,6 @@
 <h3>Have fun</h3>
 
 <p>Don&rsquo;t forget, the whole point of Letterpress is to enjoy the time you spend playing it. There&rsquo;s no reason to even be competitive. You and a friend could just try and find all the words on the grid with a certain theme. <a href="https://twitter.com/jobbogamer/status/282226813567131648">https://twitter.com/jobbogamer/status/282226813567131648</a></p>
-
-<hr />
 <div class="footnotes">
 <hr/>
 <ol>
@@ -82,11 +80,11 @@
     <id>http://jobbogamer.github.io/blog/2012/12/11/longer-passcode-on-ios</id>
     <content type="html"><![CDATA[<p>Use a passcode to keep your iPhone or iPad safe, but think four digit codes aren’t long enough? Since iOS 5, there has been an option to swap the 4-digit numerical passcode for an arbitrary length alphanumeric one. To set up a longer passcode, open Settings then select General → Passcode Lock. Now turn the Simple Passcode switch to the Off position.</p>
 
-<p><img src="/images/2012/12/11/Passcode-Lock-Settings.png" alt="" /></p>
+<p><img src="/images/2012/12/11/longer-passcode-ios/Passcode-Lock-Settings.png" alt="" /></p>
 
 <p>You’ll be prompted to enter your current passcode (if you have one), and then to enter your new passcode. With Simple Passcode turned off, you can enter either numbers, letters or both. However, if you only use numbers in your new passcode, you’ll still be given the numerical keyboard on the lock screen.</p>
 
-<p><img src="/images/2012/12/11/Long-Passcode-Lock-Screen.png" alt="" /></p>
+<p><img src="/images/2012/12/11/longer-passcode-ios/Long-Passcode-Lock-Screen.png" alt="" /></p>
 
 <p>You can also add letters to the passcode, but the regular iOS keyboard will show up on the lock screen instead.</p>
 ]]></content>
