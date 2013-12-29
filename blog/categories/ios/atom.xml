@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: iOS | Josh’s Random Ramblings]]></title>
+  <link href="http://jobbogamer.github.io/blog/categories/ios/atom.xml" rel="self"/>
+  <link href="http://jobbogamer.github.io/"/>
+  <updated>2013-12-29T20:58:13+00:00</updated>
+  <id>http://jobbogamer.github.io/</id>
+  <author>
+    <name><![CDATA[Josh Asch]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I Made a Thing - EmojiBoard]]></title>
+    <link href="http://jobbogamer.github.io/blog/2013/12/29/i-made-a-thing-emojiboard/"/>
+    <updated>2013-12-29T13:23:00+00:00</updated>
+    <id>http://jobbogamer.github.io/blog/2013/12/29/i-made-a-thing-emojiboard</id>
+    <content type="html"><![CDATA[<h1>I Made A Thing: EmojiBoard</h1>
+
+<p>I like to use Emoji symbols when I&rsquo;m using my iPhone or iPad, but I don&rsquo;t like having to keep the Emoji keyboard turned on. I always end up hitting the &lsquo;change keyboard&rsquo; button by accident. I set up a few text shortcuts to the symbols I use the most, but there&rsquo;s no easy way to access the other symbols. So I made one.
+<img src="/images/2013/12/29/EmojiBoard.png" alt="EmojiBoard" />
+I call it EmojiBoard. It&rsquo;s a web app which lists all the Emoji symbols that work on iOS, allowing them to be copied for use in any app. It&rsquo;s laid out in the exact same way as the Emoji keyboard to make it easy to find certain symbols, and there&rsquo;s a recents section at the top which collects the 21 most recent symbols you&rsquo;ve used.</p>
+
+<p>It works best on iPhone and iPad, and will probably work on Android, but doesn&rsquo;t work on desktop, since it relies on touch.</p>
+
+<p>The web app itself can be found at <a href="http://josh-asch.net/emoji/">josh-asch.net/emoji</a>, and it&rsquo;s open source, so the source can be found <a href="http://github.com/jobbogamer/EmojiBoard">on GitHub</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Win at Letterpress]]></title>
+    <link href="http://jobbogamer.github.io/blog/2012/12/23/how-to-win-at-letterpress/"/>
+    <updated>2012-12-23T00:20:00+00:00</updated>
+    <id>http://jobbogamer.github.io/blog/2012/12/23/how-to-win-at-letterpress</id>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/gb/app/letterpress-word-game/id526619424?mt=8&amp;at=10l7rn">Letterpress</a> is the fun new word game from Loren Brichter, of Tweetie fame. Since you&rsquo;ve probably played the game before I won&rsquo;t go into details about the game itself (you could always go to the <a href="http://www.atebits.com/letterpress/">Letterpress page</a>). Disclaimer: These are just some handy tips to help you do better when playing Letterpress. I can&rsquo;t guarantee you&rsquo;ll win more games than you did before.</p>
+
+<h3>Play the longest possible variant</h3>
+
+<p>The rules state that you can&rsquo;t play a word which is at the start of another word that has already been played. For example, if someone plays <strong>photograph</strong>, no one can play <strong>photo</strong>. However, you <em>are</em> allowed to extend previously played words. If <strong>photo</strong> is played first, then <strong>photograph</strong> is still allowed. Because extending words is allowed, your opponent can easily steal tiles back from you by adding one or two letters to the end of your word. If you play <strong>dolphin</strong> and there&rsquo;s an S tile on the board, your opponent can take all the tiles you just won by playing <strong>dolphins</strong>. To combat this, always try to play the longest version of the word that&rsquo;s possible. Add <strong>S</strong> or <strong>ING</strong> to the end of your word to make sure it can&rsquo;t be extended any further. Of course, this isn&rsquo;t foolproof, since if you play <strong>players</strong> it&rsquo;s still possible to play <strong>played</strong> afterwards, which steals most of the tiles you just used.</p>
+
+<h3>Remember the &ldquo;cheating&rdquo; words from Scrabble</h3>
+
+<p>Letterpress seems to use a similar dictionary to Scrabble, so it lets you have the two-letter words some people consider &ldquo;cheating&rdquo;: <strong>qi</strong> <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> for when there&rsquo;s a Q but no U, and <strong>za</strong> <sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> for when you can&rsquo;t remember any other words containing a Z. Obviously these words don&rsquo;t score you many blue tiles so use them only when you&rsquo;re desperate for a word with an obscure letter.</p>
+
+<h3>Don&rsquo;t forget about your own tiles</h3>
+
+<p>It can be very easy to focus only on stealing red and grey tiles, and forget that you&rsquo;re allowed to use your own blue tiles to create words. You won&rsquo;t gain any points for using blue tiles, but it might make finding a good word a bit easier.</p>
+
+<h3>Play for territory</h3>
+
+<p>Since you need to own the most tiles to win the game, protect the ones you own by surrounding them on all sides. The best way to do this is to start in one corner and work outwards. Here&rsquo;s an example of what I mean, starting from the lower right corner:
+<img src="/images/2012/12/23/Letterpress-Territory-Example.png" alt="" />
+Playing this way might not keep the most important letters protected (if there is only one E, for example, you&rsquo;d probably want to grab that early on), but it means you most likely have more tiles protected than your opponent.</p>
+
+<h3>Have fun</h3>
+
+<p>Don&rsquo;t forget, the whole point of Letterpress is to enjoy the time you spend playing it. There&rsquo;s no reason to even be competitive. You and a friend could just try and find all the words on the grid with a certain theme. <a href="https://twitter.com/jobbogamer/status/282226813567131648">https://twitter.com/jobbogamer/status/282226813567131648</a></p>
+
+<hr />
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p><strong>qi</strong>: (of Chinese origin) vital energy believed to circulate round the body in currents<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p><strong>za</strong>: (Americanism) slang for pizza<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Longer Passcode on iOS Devices]]></title>
+    <link href="http://jobbogamer.github.io/blog/2012/12/11/longer-passcode-on-ios/"/>
+    <updated>2012-12-11T21:15:00+00:00</updated>
+    <id>http://jobbogamer.github.io/blog/2012/12/11/longer-passcode-on-ios</id>
+    <content type="html"><![CDATA[<p>Use a passcode to keep your iPhone or iPad safe, but think four digit codes aren’t long enough? Since iOS 5, there has been an option to swap the 4-digit numerical passcode for an arbitrary length alphanumeric one. To set up a longer passcode, open Settings then select General → Passcode Lock. Now turn the Simple Passcode switch to the Off position.
+<img src="/images/2012/12/11/Passcode-Lock-Settings.png" alt="" />
+You’ll be prompted to enter your current passcode (if you have one), and then to enter your new passcode. With Simple Passcode turned off, you can enter either numbers, letters or both. However, if you only use numbers in your new passcode, you’ll still be given the numerical keyboard on the lock screen.
+<img src="/images/2012/12/11/Long-Passcode-Lock-Screen.png" alt="" />
+You can also add letters to the passcode, but the regular iOS keyboard will show up on the lock screen instead.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Use a Phone Number for iMessage on iPad and iPod Touch]]></title>
+    <link href="http://jobbogamer.github.io/blog/2012/09/21/using-a-phone-number-for-imessage-and-facetime/"/>
+    <updated>2012-09-21T16:43:00+01:00</updated>
+    <id>http://jobbogamer.github.io/blog/2012/09/21/using-a-phone-number-for-imessage-and-facetime</id>
+    <content type="html"><![CDATA[<p>One of the main features of iOS 6 on the iPad and iPod touch is the ability to use a phone number for iMessage and FaceTime. Unfortunately it’s not the most intuitive thing to set up.</p>
+
+<h3>What you need</h3>
+
+<ul>
+<li>An iPhone running iOS 6 or later</li>
+<li>An iPad or iPod touch running iOS 6 or later</li>
+<li>An Apple ID set up to use iMessage</li>
+</ul>
+
+
+<h3>Method</h3>
+
+<ol>
+<li><p> Turn iMessage off on your iPhone. Open <strong>Settings → Messages</strong> and slide the <strong>iMessage</strong> switch to the <strong>off</strong> position.</p></li>
+<li><p> Turn iMessage back on by sliding the switch back to the <strong>on</strong> position.</p></li>
+<li><p> Turn off iMessage on your iPad or iPod. This can be done in the same way as on the iPhone. If you don’t see a switch labelled iMessage, you should see your Apple ID’s email address. Tap this and then tap <strong>Sign Out</strong> from the menu.</p></li>
+<li><p> Turn iMessage back on on your iPad or iPod. If the switch isn’t there, either tap <strong>Use your Apple ID for iMessage</strong> or enter your password, depending on what you can see.</p></li>
+<li><p> You should see a notification such as, “+44 7700 123456 was added to iMessage on the iPhone ‘Mr iPhone’”. You will then be asked if you want to use this number for iMessage and FaceTime on the device you’re using. Tap <strong>yes</strong> and iMessage and FaceTime will be set up with your phone number.</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Force Reset and Shutdown iOS Devices]]></title>
+    <link href="http://jobbogamer.github.io/blog/2012/06/21/how-to-force-reset-and-shutdown-ios-devices/"/>
+    <updated>2012-06-21T12:50:00+01:00</updated>
+    <id>http://jobbogamer.github.io/blog/2012/06/21/how-to-force-reset-and-shutdown-ios-devices</id>
+    <content type="html"><![CDATA[<p>Is your iPhone, iPod touch or iPad having problems and needs to be restarted? Read on to find out how to force your device to either restart or just shut down.</p>
+
+<h3>Restarting</h3>
+
+<p>To force a device to restart, hold down both the Sleep/Wake and Home buttons together. The screen will turn black, then the Apple logo will appear, at which point you can let go of the buttons.</p>
+
+<h3>Shutting down</h3>
+
+<p>If you need the device just to shut down and not turn back on, follow the above steps, but once the Apple logo appears, only let go of the Home button and keep holding the Sleep/Wake button <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>It&rsquo;s nice if, say, you leave your iPod touch in your pocket, it goes through the washing machine and you need to turn it off but the touch screen has stopped working. Yes, that&rsquo;s a true story.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
