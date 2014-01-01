@@ -52,7 +52,7 @@ a:hover {
 
 .footnote-button {
     border-radius: 1.3em;
-    min-width: 20px;
+    width: 1.3em;
     text-align: center;
     height: 1.3em;
     top: -0.25em;
