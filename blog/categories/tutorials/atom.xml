@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tutorials | Josh’s Random Ramblings]]></title>
   <link href="http://jobbogamer.github.io/blog/categories/tutorials/atom.xml" rel="self"/>
   <link href="http://jobbogamer.github.io/"/>
-  <updated>2014-01-01T15:53:40+00:00</updated>
+  <updated>2014-01-01T16:07:03+00:00</updated>
   <id>http://jobbogamer.github.io/</id>
   <author>
     <name><![CDATA[Josh Asch]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Disable Automatic Emoji in Messages on Mavericks]]></title>
-    <link href="http://jobbogamer.github.io/blog/2013/12/27/disable-automatic-emoji-in-messages-on-mavericks/"/>
+    <link href="http://jobbogamer.github.io/2013/12/27/disable-automatic-emoji-in-messages-on-mavericks/"/>
     <updated>2013-12-27T12:46:00+00:00</updated>
-    <id>http://jobbogamer.github.io/blog/2013/12/27/disable-automatic-emoji-in-messages-on-mavericks</id>
+    <id>http://jobbogamer.github.io/2013/12/27/disable-automatic-emoji-in-messages-on-mavericks</id>
     <content type="html"><![CDATA[<p>Version 8.0 of Messages.app, shipped with OS X Mavericks, has a new feature which automatically inserts Emoji symbols when you type common text emoticons, such as replacing &ldquo;:)&rdquo; with a smiling Emoji face. Personally, I prefer to send the actual text rather than an Emoji symbol, but I couldn&rsquo;t find anywhere in the app&rsquo;s preferences to turn it off. After a lot of searching, it turns out the answer is simple. Just click in the text field in Messages and deselect <strong>Edit → Substitutions → Emoji</strong> <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, and emoticons will no longer be replaced with Emoji symbols.</p>
 
 <p><img src="/images/2013/12/27/disable-automatic-emoji-in-messages-on-mavericks/Disable-Emoji.png" alt="Disable Emoji" /></p>
@@ -34,9 +34,9 @@
   
   <entry>
     <title type="html"><![CDATA[Access iTunes Radio Outside the US]]></title>
-    <link href="http://jobbogamer.github.io/blog/2013/10/20/access-itunes-radio-outside-the-us/"/>
+    <link href="http://jobbogamer.github.io/2013/10/20/access-itunes-radio-outside-the-us/"/>
     <updated>2013-10-20T22:23:00+01:00</updated>
-    <id>http://jobbogamer.github.io/blog/2013/10/20/access-itunes-radio-outside-the-us</id>
+    <id>http://jobbogamer.github.io/2013/10/20/access-itunes-radio-outside-the-us</id>
     <content type="html"><![CDATA[<p>With the release of iOS 7, Apple introduced <a href="http://www.apple.com/itunes/itunes-radio/">iTunes Radio</a>, a service similar to Stations in Rdio or Spotify Radio. Unfortunately, iTunes Radio is only available in the US at the moment – although <a href="http://www.macrumors.com/2013/10/07/apple-to-expand-itunes-radio-to-u-k-canada-australia-new-zealand-and-more-by-early-2014/">rumour has it</a> that the service will be expanding to other countries, including the UK, by early 2014.</p>
 
 <p>However, it&rsquo;s fairly easy to access iTunes Radio now from any country. All you need to do is set up a US iTunes account and log in to that account on the device you want to use to access iTunes Radio. If you don&rsquo;t already have a US iTunes account, follow <a href="http://www.makeuseof.com/tag/create-itunes-account-access-usonly-contents-credit-card/">these steps</a> to get one set up without having to enter credit card information.</p>
@@ -47,9 +47,9 @@
   
   <entry>
     <title type="html"><![CDATA[Keep iTunes OCD at Bay With MetaZ]]></title>
-    <link href="http://jobbogamer.github.io/blog/2013/04/11/itunes-ocd-metaz/"/>
+    <link href="http://jobbogamer.github.io/2013/04/11/itunes-ocd-metaz/"/>
     <updated>2013-04-11T23:17:00+01:00</updated>
-    <id>http://jobbogamer.github.io/blog/2013/04/11/itunes-ocd-metaz</id>
+    <id>http://jobbogamer.github.io/2013/04/11/itunes-ocd-metaz</id>
     <content type="html"><![CDATA[<p>If you&rsquo;re anything like me, you like your iTunes library to look neat and tidy, and to contain all the information it&rsquo;s supposed to, even if your content didn&rsquo;t come from the iTunes Store. For instance, in iTunes 11, the Description field for movies and TV shows became much more prominent. So prominent, in fact, that it purposefully points out that the description is missing if you haven&rsquo;t added one.</p>
 
 <p><img src="/images/2013/04/11/itunes-ocd-metaz/No-Description-Available.png" alt="No Description Available" /></p>
@@ -72,9 +72,9 @@
   
   <entry>
     <title type="html"><![CDATA[Longer Passcode on iOS Devices]]></title>
-    <link href="http://jobbogamer.github.io/blog/2012/12/11/longer-passcode-on-ios/"/>
+    <link href="http://jobbogamer.github.io/2012/12/11/longer-passcode-on-ios/"/>
     <updated>2012-12-11T21:15:00+00:00</updated>
-    <id>http://jobbogamer.github.io/blog/2012/12/11/longer-passcode-on-ios</id>
+    <id>http://jobbogamer.github.io/2012/12/11/longer-passcode-on-ios</id>
     <content type="html"><![CDATA[<p>Use a passcode to keep your iPhone or iPad safe, but think four digit codes aren’t long enough? Since iOS 5, there has been an option to swap the 4-digit numerical passcode for an arbitrary length alphanumeric one. To set up a longer passcode, open Settings then select General → Passcode Lock. Now turn the Simple Passcode switch to the Off position.</p>
 
 <p><img src="/images/2012/12/11/longer-passcode-on-ios/Passcode-Lock-Settings.png" alt="" /></p>
@@ -89,9 +89,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Use a Phone Number for iMessage on iPad and iPod Touch]]></title>
-    <link href="http://jobbogamer.github.io/blog/2012/09/21/using-a-phone-number-for-imessage-and-facetime/"/>
+    <link href="http://jobbogamer.github.io/2012/09/21/using-a-phone-number-for-imessage-and-facetime/"/>
     <updated>2012-09-21T16:43:00+01:00</updated>
-    <id>http://jobbogamer.github.io/blog/2012/09/21/using-a-phone-number-for-imessage-and-facetime</id>
+    <id>http://jobbogamer.github.io/2012/09/21/using-a-phone-number-for-imessage-and-facetime</id>
     <content type="html"><![CDATA[<p>One of the main features of iOS 6 on the iPad and iPod touch is the ability to use a phone number for iMessage and FaceTime. Unfortunately it’s not the most intuitive thing to set up.</p>
 
 <h3>What you need</h3>
