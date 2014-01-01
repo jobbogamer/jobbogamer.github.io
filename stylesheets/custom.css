@@ -1,11 +1,8 @@
-html {
-	background: #f8f8f8 url('/images/noise.png?1388343338') top left;
-}
-
-body {
-	width: 700px;
-}
-
 .collapse-sidebar #content {
 	margin-right:0
+}
+
+body #content>div>article {
+	padding-left: 250px;
+	padding-right: 250px;
 }
