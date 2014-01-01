@@ -1,3 +1,7 @@
+body {
+	width: 700px;
+}
+
 .collapse-sidebar #content {
 	margin-right:0
 }
