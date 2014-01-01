@@ -4,7 +4,7 @@
   <title><![CDATA[Josh’s Random Ramblings]]></title>
   <link href="http://jobbogamer.github.io/atom.xml" rel="self"/>
   <link href="http://jobbogamer.github.io/"/>
-  <updated>2014-01-01T19:36:10+00:00</updated>
+  <updated>2014-01-01T19:37:49+00:00</updated>
   <id>http://jobbogamer.github.io/</id>
   <author>
     <name><![CDATA[Josh Asch]]></name>
@@ -20,7 +20,7 @@
     <id>http://jobbogamer.github.io/2013/12/29/i-made-a-thing-emojiboard</id>
     <content type="html"><![CDATA[<p>I like to use Emoji symbols when I&rsquo;m using my iPhone or iPad, but I don&rsquo;t like having to keep the Emoji keyboard turned on. I always end up hitting the &lsquo;change keyboard&rsquo; button by accident. I set up a few text shortcuts to the symbols I use the most, but there&rsquo;s no easy way to access the other symbols. So I made one.</p>
 
-<p><img src="http://jobbogamer.github.io/images/2013/12/29/i-made-a-thing-emojiboard/EmojiBoard.png" width="320" height="480" /></p>
+<p><img src="http://jobbogamer.github.io/images/2013/12/29/i-made-a-thing-emojiboard/EmojiBoard.png" class="iphone-screenshot" /></p>
 
 <p>I call it EmojiBoard. It&rsquo;s a web app which lists all the Emoji symbols that work on iOS, allowing them to be copied for use in any app. It&rsquo;s laid out in the exact same way as the Emoji keyboard to make it easy to find certain symbols, and there&rsquo;s a recents section at the top which collects the 21 most recent symbols you&rsquo;ve used.</p>
 

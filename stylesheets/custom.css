@@ -6,3 +6,8 @@ body #content>div>article {
 	padding-left: 250px;
 	padding-right: 250px;
 }
+
+.iphone-screenshot {
+	width: 320px;
+	height: 480px;
+}
