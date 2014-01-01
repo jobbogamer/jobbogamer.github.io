@@ -45,3 +45,7 @@ a:hover {
 #blog-archives h1 a:hover {
 	color: #10c413;
 }
+
+#content .blog-index a[rel=full-article]:hover {
+	color: #10c413;
+}
