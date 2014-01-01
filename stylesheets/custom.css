@@ -1,1 +1,8 @@
-.collapse-sidebar #content{margin-right:0}
+.collapse-sidebar #content {
+	margin-right:0
+}
+
+body #content>div>article {
+	padding-left: 25%;
+	padding-right: 25%;
+}
