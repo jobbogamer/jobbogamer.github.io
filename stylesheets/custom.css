@@ -13,3 +13,7 @@ article img {
 	display: block;
 	clear: both;
 }
+
+body>footer {
+	margin-bottom: 0;
+}
