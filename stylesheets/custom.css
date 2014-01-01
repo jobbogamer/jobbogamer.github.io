@@ -37,3 +37,7 @@ a:visited {
 a:hover {
 	color: #10c413;
 }
+
+.entry-title a:hover {
+	color: #10c413;
+}
