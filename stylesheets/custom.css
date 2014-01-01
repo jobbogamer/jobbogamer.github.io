@@ -38,6 +38,6 @@ a:hover {
 	color: #10c413;
 }
 
-.entry-title a:hover {
+#content .blog-index article h1 a:hover {
 	color: #10c413;
 }
