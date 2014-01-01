@@ -21,3 +21,7 @@ body>footer {
 .prev-post, .next-post {
 	max-width: 40%;
 }
+
+.next-post {
+	text-align: right;
+}
