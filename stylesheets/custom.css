@@ -41,3 +41,7 @@ a:hover {
 #content .blog-index article h1 a:hover {
 	color: #10c413;
 }
+
+#blog-archives h1 a:hover {
+	color: #10c413;
+}
