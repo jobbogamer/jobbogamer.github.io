@@ -5,8 +5,3 @@ body {
 .collapse-sidebar #content {
 	margin-right:0
 }
-
-body #content>div>article {
-	padding-left: 250px;
-	padding-right: 250px;
-}
