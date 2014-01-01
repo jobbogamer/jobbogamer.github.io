@@ -49,3 +49,10 @@ a:hover {
 #content .blog-index a[rel=full-article]:hover {
 	background-color: #10c413;
 }
+
+.footnote-button {
+	text-align: center;
+	padding-top: 0.75em;
+	-webkit-font-smoothing: antialiased;
+	font-size: 0.75em;
+}
