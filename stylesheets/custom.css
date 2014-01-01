@@ -7,7 +7,9 @@ body #content>div>article {
 	padding-right: 250px;
 }
 
-.iphone-screenshot {
-	width: 320px;
-	height: 480px;
+article img {
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	clear: both;
 }
