@@ -17,3 +17,7 @@ article img {
 body>footer {
 	margin-bottom: 0;
 }
+
+.prev-post, .next-post {
+	max-width: 40%;
+}
