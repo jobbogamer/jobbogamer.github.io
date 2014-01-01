@@ -3,8 +3,8 @@
 }
 
 body #content>div>article {
-	padding-left: 250px;
-	padding-right: 250px;
+	padding-left: 20%;
+	padding-right: 20%;
 }
 
 article img {
