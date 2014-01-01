@@ -58,6 +58,6 @@ a:hover {
     top: -0.25em;
     font-size: 0.75em;
     font-weight: 600;
-    padding-top: 0.75em;
+    padding: 0.75em;
     -webkit-font-smoothing: antialiased;
 }
