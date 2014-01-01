@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | Josh’s Random Ramblings]]></title>
   <link href="http://jobbogamer.github.io/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://jobbogamer.github.io/"/>
-  <updated>2014-01-01T20:07:56+00:00</updated>
+  <updated>2014-01-01T20:14:13+00:00</updated>
   <id>http://jobbogamer.github.io/</id>
   <author>
     <name><![CDATA[Josh Asch]]></name>
@@ -35,7 +35,7 @@
     <link href="http://jobbogamer.github.io/2012/12/23/how-to-win-at-letterpress/"/>
     <updated>2012-12-23T00:20:00+00:00</updated>
     <id>http://jobbogamer.github.io/2012/12/23/how-to-win-at-letterpress</id>
-    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/gb/app/letterpress-word-game/id526619424?mt=8&amp;at=10l7rn">Letterpress</a> is the fun new word game from Loren Brichter, of Tweetie fame. Since you&rsquo;ve probably played the game before I won&rsquo;t go into details about the game itself (you could always go to the <a href="http://www.atebits.com/letterpress/">Letterpress page</a>). Disclaimer: These are just some handy tips to help you do better when playing Letterpress. I can&rsquo;t guarantee you&rsquo;ll win more games than you did before.</p>
+    <content type="html"><![CDATA[<p><a href="https://itunes.apple.com/gb/app/letterpress-word-game/id526619424?mt=8&amp;at=10l7rn">Letterpress</a> is the fun new word game from Loren Brichter, of Tweetie fame. Since you&rsquo;ve probably played the game before I won&rsquo;t go into details about the game itself (you could always go to the <a href="http://www.atebits.com/letterpress/">Letterpress page</a>). Disclaimer: These are just some handy tips to help you do better when playing Letterpress. I can&rsquo;t guarantee you&rsquo;ll win more games than you did before. <!-- more --></p>
 
 <h3>Play the longest possible variant</h3>
 
@@ -80,11 +80,11 @@
     <id>http://jobbogamer.github.io/2012/12/11/longer-passcode-on-ios</id>
     <content type="html"><![CDATA[<p>Use a passcode to keep your iPhone or iPad safe, but think four digit codes aren’t long enough? Since iOS 5, there has been an option to swap the 4-digit numerical passcode for an arbitrary length alphanumeric one. To set up a longer passcode, open Settings then select General → Passcode Lock. Now turn the Simple Passcode switch to the Off position.</p>
 
-<p><img src="/images/2012/12/11/longer-passcode-on-ios/Passcode-Lock-Settings.png" alt="" /></p>
+<p><img src="http://jobbogamer.github.io/images/2012/12/11/longer-passcode-on-ios/Passcode-Lock-Settings.png" width="320" height="480" /></p>
 
 <p>You’ll be prompted to enter your current passcode (if you have one), and then to enter your new passcode. With Simple Passcode turned off, you can enter either numbers, letters or both. However, if you only use numbers in your new passcode, you’ll still be given the numerical keyboard on the lock screen.</p>
 
-<p><img src="/images/2012/12/11/longer-passcode-on-ios/Long-Passcode-Lock-Screen.png" alt="" /></p>
+<p><img src="http://jobbogamer.github.io/images/2012/12/11/longer-passcode-on-ios/Long-Passcode-Lock-Screen.png" width="320" height="480" /></p>
 
 <p>You can also add letters to the passcode, but the regular iOS keyboard will show up on the lock screen instead.</p>
 ]]></content>
@@ -95,7 +95,7 @@
     <link href="http://jobbogamer.github.io/2012/09/21/using-a-phone-number-for-imessage-and-facetime/"/>
     <updated>2012-09-21T16:43:00+01:00</updated>
     <id>http://jobbogamer.github.io/2012/09/21/using-a-phone-number-for-imessage-and-facetime</id>
-    <content type="html"><![CDATA[<p>One of the main features of iOS 6 on the iPad and iPod touch is the ability to use a phone number for iMessage and FaceTime. Unfortunately it’s not the most intuitive thing to set up.</p>
+    <content type="html"><![CDATA[<p>One of the main features of iOS 6 on the iPad and iPod touch is the ability to use a phone number for iMessage and FaceTime. Unfortunately it’s not the most intuitive thing to set up. <!-- more --></p>
 
 <h3>What you need</h3>
 
@@ -124,7 +124,7 @@
     <link href="http://jobbogamer.github.io/2012/06/21/how-to-force-reset-and-shutdown-ios-devices/"/>
     <updated>2012-06-21T12:50:00+01:00</updated>
     <id>http://jobbogamer.github.io/2012/06/21/how-to-force-reset-and-shutdown-ios-devices</id>
-    <content type="html"><![CDATA[<p>Is your iPhone, iPod touch or iPad having problems and needs to be restarted? Read on to find out how to force your device to either restart or just shut down.</p>
+    <content type="html"><![CDATA[<p>Is your iPhone, iPod touch or iPad having problems and needs to be restarted? Read on to find out how to force your device to either restart or just shut down. <!-- more --></p>
 
 <h3>Restarting</h3>
 
