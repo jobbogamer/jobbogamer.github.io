@@ -25,3 +25,15 @@ body>footer {
 .next-post {
 	text-align: right;
 }
+
+a {
+	color: #0a930c;
+}
+
+a:visited {
+	color: #0a930c;
+}
+
+a:hover {
+	color: #10c413;
+}
