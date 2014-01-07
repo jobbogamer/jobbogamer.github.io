@@ -1,8 +1,13 @@
 name: Josh Asch
+
 pygments: true
+
 markdown: rdiscount
 rdiscount:
   extensions:
     - autolink
     - footnotes
     - smart
+
+paginate: 5
+paginate_path: "page/:num"
