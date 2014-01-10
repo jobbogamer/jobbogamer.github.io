@@ -3,6 +3,8 @@ author: Josh Asch
 description: "The random ramblings of Josh Asch, a Computer Science student from the UK."
 url: "http://josh-asch.net"
 
+permalink: /:year/:month/:day/:title/
+
 twitter_handle: jobbogamer
 
 pygments: true
