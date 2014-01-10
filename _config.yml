@@ -2,6 +2,8 @@ name: Josh Asch
 author: Josh Asch
 description: "The random ramblings of Josh Asch, a Computer Science student from the UK."
 
+twitter_handle: jobbogamer
+
 pygments: true
 
 markdown: rdiscount
