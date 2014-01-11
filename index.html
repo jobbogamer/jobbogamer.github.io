@@ -9,10 +9,9 @@ layout: default
 						<span class="post-date">{% if post.updated %}Last updated {{ post.updated | date: "%B %e, %Y"}}{% else %}{{ post.date | date: "%B %e, %Y"}}{% endif %}</span>
 					</div><!-- .post-header -->
 					
-					<div class="post-excerpt">
-						{{ post.content | split: "<!-- more -->" | first }}
-						{% if post.content contains "<!-- more -->" %}<p><a class="read-more-link" href="{{ post.url }}">Read the rest &rarr;</a></p>{% endif %}
-					</div><!-- .post-excerpt -->
+					<div class="post-content">
+						{{ post.content }}
+					</div><!-- .post-content -->
 				</article>
 			{% endfor %}
 				{% if paginator.total_pages > 1 %}
