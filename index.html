@@ -10,7 +10,9 @@ layout: default
 					</div><!-- .post-header -->
 					
 					<div class="post-content">
-						{{ post.content }}
+						{% capture footnote_id %}footnote:{{ post.date | date: '%Y%m%d' }}{% endcapture %}
+						{% capture footnote_ref_id %}footnoteref:{{ post.date | date: '%Y%m%d' }}{% endcapture %}
+						{{ post.content | replace: "fn:", footnote_id | replace: "fnref:", footnote_ref_id }}
 					</div><!-- .post-content -->
 				</article>
 			{% endfor %}
