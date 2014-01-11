@@ -13,6 +13,6 @@ To force a device to restart, hold down both the Sleep/Wake and Home buttons tog
 
 ### Shutting down
 
-If you need the device just to shut down and not turn back on, follow the above steps, but once the Apple logo appears, only let go of the Home button and keep holding the Sleep/Wake button [^1].
+If you need the device just to shut down and not turn back on, follow the above steps, but once the Apple logo appears, only let go of the Home button and keep holding the Sleep/Wake button.[^1]
 
 [^1]: It's nice if, say, you leave your iPod touch in your pocket, it goes through the washing machine and you need to turn it off but the touch screen has stopped working. Yes, that's a true story.
