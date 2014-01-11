@@ -1,5 +1,5 @@
 ---
-title: iOS Development: Remove Old Notifications From Notification Center
+title: "iOS Development: Remove Old Notifications From Notification Center"
 ---
 
 There are many things I dislike. One of them is stale notifications clogging up Notification Center on my iPhone and iPad. When I open an app from a notification, I expect that notification to be cleared from the list, but sadly a lot of apps don't do this.

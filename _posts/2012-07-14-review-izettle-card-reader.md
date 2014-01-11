@@ -1,5 +1,5 @@
 ---
-title: Review: iZettle Card Reader
+title: "Review: iZettle Card Reader"
 ---
 
 I recently received my [iZettle](https://www.izettle.com/gb) card reader as part of their beta program. Anyone can sign up to the program, but I thought I'd share my thoughts on the product (and to be honest, save you the bother of getting one yourself).
