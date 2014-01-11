@@ -158,3 +158,16 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+/*****************************************************************************/
+/*
+/* Bigfoot Footnotes
+/*
+/*****************************************************************************/
+
+.footnote-button {
+    border-radius: 1em;
+    text-align: center;
+    font-size: 1.2em;
+    -webkit-font-smoothing: antialiased;
+}
