@@ -16,11 +16,11 @@
 		
 		<script type="text/javascript" src="/javascript/jquery.min.js"></script>
 		<script type="text/javascript" src="/javascript/bigfoot.js"></script>
-		{% unless page.url == '/index.html' %}
 		<script type="text/javascript">
-			$.bigfoot();
+			$.bigfoot({
+				numberResetSelector: "article"
+			});
 		</script>
-		{% endunless %}
     </head>
     
     <body>
