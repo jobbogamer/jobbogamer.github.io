@@ -2,22 +2,22 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
-	<article>
-		<div class="post-header">
-			<a href="{{ post.url }}"><h2 class="post-title">{{ post.title }}</h2></a>
-			<span class="post-date">{% if post.updated %}Last updated {{ post.updated | date: "%B %e, %Y"}}{% else %}{{ post.date | date: "%B %e, %Y"}}{% endif %}</span>
-		</div><!-- .post-header -->
-		
-		<div class="post-excerpt">
-			{{ post.content | split: "<!-- more -->" | first }}
-			{% if post.content contains "<!-- more -->" %}<p><a class="read-more-link" href="{{ post.url }}">Read the rest &rarr;</a></p>{% endif %}
-		</div><!-- .post-excerpt -->
-	</article>
-{% endfor %}
-	{% if paginator.total_pages > 1 %}
-	<div id="pagination">
-		{% if paginator.next_page %}<a id="older-posts" href="{{ paginator.next_page_path }}">Older Posts</a>{% endif %}
-		{% if paginator.previous_page %}<a id="newer-posts" href="{{ paginator.previous_page_path }}">Newer Posts</a>{% endif %}
-	</div><!-- #pagination -->
-	{% endif %}
+			{% for post in paginator.posts %}
+				<article>
+					<div class="post-header">
+						<a href="{{ post.url }}"><h2 class="post-title">{{ post.title }}</h2></a>
+						<span class="post-date">{% if post.updated %}Last updated {{ post.updated | date: "%B %e, %Y"}}{% else %}{{ post.date | date: "%B %e, %Y"}}{% endif %}</span>
+					</div><!-- .post-header -->
+					
+					<div class="post-excerpt">
+						{{ post.content | split: "<!-- more -->" | first }}
+						{% if post.content contains "<!-- more -->" %}<p><a class="read-more-link" href="{{ post.url }}">Read the rest &rarr;</a></p>{% endif %}
+					</div><!-- .post-excerpt -->
+				</article>
+			{% endfor %}
+				{% if paginator.total_pages > 1 %}
+				<div id="pagination">
+					{% if paginator.next_page %}<a id="older-posts" href="{{ paginator.next_page_path }}">&larr; Older Posts</a>{% endif %}
+					{% if paginator.previous_page %}<a id="newer-posts" href="{{ paginator.previous_page_path }}">Newer Posts &rarr;</a>{% endif %}
+				</div><!-- #pagination -->
+				{% endif %}
