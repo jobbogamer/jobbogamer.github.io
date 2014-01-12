@@ -171,3 +171,203 @@ a:visited { color: #a0a; }
     font-size: 1.2em;
     -webkit-font-smoothing: antialiased;
 }
+
+/*****************************************************************************/
+/*
+/* Share/About Buttons
+/*
+/*****************************************************************************/
+
+a.share-icon {
+    display: inline-block;
+    background-color: transparent;
+    box-sizing: content-box;
+    box-shadow: none;
+    padding: 1px;
+    line-height: normal;
+    border-radius: 50%;
+    border: 2px solid #a2a2a2;
+    width: 28px !important;
+    height: 28px !important;
+    background-size: 144px 72px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url("/icons/share.svg")
+}
+
+a.share-icon:hover {
+    background-color: #a2a2a2
+}
+
+a.share-icon.twitter {
+    background-position: -3px -3px
+}
+
+a.share-icon.twitter:hover {
+    background-color: #00aced;
+    background-position: -3px -39px;
+    border-color: #0075a1;
+    border-color: #00aced
+}
+
+a.share-icon.facebook {
+    background-position: -39px -2px
+}
+
+a.share-icon.facebook:hover {
+    background-color: #3B5998;
+    background-position: -39px -38px;
+    border-color: #1e2d4d;
+    border-color: #3B5998
+}
+
+a.share-icon.googleplus {
+    background-position: -75px -3px
+}
+
+a.share-icon.googleplus:hover {
+    background-color: #d34836;
+    background-position: -75px -39px;
+    border-color: #872e23;
+    border-color: #d34836
+}
+
+a.share-icon.email {
+    background-position: -111px -3px
+}
+
+a.share-icon.email:hover {
+    background-color: #5e9eda;
+    background-position: -111px -39px;
+    border-color: #3a6287;
+    border-color: #5e9eda
+}
+
+a.share-icon.linkedin, a.share-icon.appnet, a.share-icon.amazon,
+a.share-icon.flattr, a.share-icon.dropbox, a.share-icon.github,
+a.share-icon.flickr, a.share-icon.appstore, a.share-icon.rss, a.share-icon.youtube,
+a.share-icon.delicious {
+    background-image: url("/icons/about.svg");
+    background-size: 216px 144px
+}
+
+a.share-icon.linkedin {
+    background-position: -2px -3px
+}
+
+a.share-icon.linkedin:hover {
+    background-color: #5080ba;
+    background-position: -2px -75px;
+    border-color: #35547a;
+    border-color: #5080ba
+}
+
+a.share-icon.appnet {
+    background-position: -74px -4px
+}
+
+a.share-icon.appnet:hover {
+    background-color: #49484d;
+    background-position: -74px -76px;
+    border-color: #2a224d;
+    border-color: #49484d
+}
+
+a.share-icon.amazon {
+    background-position: -110px -3px
+}
+
+a.share-icon.amazon:hover {
+    background-color: #e79e23;
+    background-position: -110px -75px;
+    border-color: #825a14;
+    border-color: #e79e23
+}
+
+a.share-icon.flattr {
+    background-position: -146px -3px
+}
+
+a.share-icon.flattr:hover {
+    background-color: #7eb226;
+    background-position: -146px -75px;
+    border-color: #4a6916;
+    border-color: #7eb226
+}
+
+a.share-icon.dropbox {
+    background-position: -182px -2px
+}
+
+a.share-icon.dropbox:hover {
+    background-color: #4f78e3;
+    background-position: -182px -74px;
+    border-color: #2e4785;
+    border-color: #4f78e3
+}
+
+a.share-icon.github {
+    background-position: -2px -38px
+}
+
+a.share-icon.github:hover {
+    background-color: #86d1fc;
+    background-position: -2px -110px;
+    border-color: #50717d;
+    border-color: #86d1fc
+}
+
+a.share-icon.flickr {
+    background-position: -37px -39px
+}
+
+a.share-icon.flickr:hover {
+    background-color: #ff0084;
+    background-position: -37px -111px;
+    border-color: #4058d9;
+    border-color: #ff0084
+}
+
+a.share-icon.appstore {
+    background-position: -74px -40px
+}
+
+a.share-icon.appstore:hover {
+    background-color: #77a9e5;
+    background-position: -74px -112px;
+    border-color: #2f42a8;
+    border-color: #77a9e5
+}
+
+a.share-icon.rss {
+    background-position: -110px -39px
+}
+
+a.share-icon.rss:hover {
+    background-color: #f60;
+    background-position: -110px -111px;
+    border-color: #874c1c;
+    border-color: #f60
+}
+
+a.share-icon.youtube {
+    background-position: -146px -39px
+}
+
+a.share-icon.youtube:hover {
+    background-color: #bc272f;
+    background-position: -146px -111px;
+    border-color: #000000;
+    border-color: #bc272f
+}
+
+a.share-icon.delicious {
+    background-position: -182px -38px
+}
+
+a.share-icon.delicious:hover {
+    background-color: #6793fc;
+    background-position: -182px -110px;
+    border-color: #666;
+    border-color: #6793fc
+}
