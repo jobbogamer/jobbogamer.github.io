@@ -5,7 +5,7 @@ layout: default
 			{% for post in paginator.posts %}
 				<article>
 					<div class="post-header">
-						<a href="{{ post.url }}"><h2 class="post-title">{{ post.title }}</h2></a>
+						<h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 						<span class="post-date">{% if post.updated %}Last updated {{ post.updated | date: "%B %e, %Y"}}{% else %}{{ post.date | date: "%B %e, %Y"}}{% endif %}</span>
 					</div><!-- .post-header -->
 					
