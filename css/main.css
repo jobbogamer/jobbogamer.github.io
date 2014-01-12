@@ -54,28 +54,20 @@ img {
 	clear: both;
 }
 
-
+div#masthead-background {
+	height: 189px;
+	margin-bottom: -189px;
+	background-color: #eee;
+}
 
 div#wrapper {
 	width: 640px;
 	margin: 0 auto;
 }
 
-div#header img {
-	margin: 0;
-	text-align: left;
-	clear: none;
-	float: left;
-}
-
 h1#site-name {
-	float: left;
-	clear: right;
-	margin: 95px 0 0 0;
-}
-
-div#navigation {
-	clear: both;
+	margin: 16px 0 0 0;
+	text-align: center;
 }
 
 div.content {
