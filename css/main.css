@@ -54,14 +54,35 @@ img {
 	clear: both;
 }
 
+
+
 div#wrapper {
 	width: 640px;
 	margin: 0 auto;
 }
 
+div#header img {
+	margin: 0;
+	text-align: left;
+	clear: none;
+	float: left;
+}
+
+h1#site-name {
+	float: left;
+	clear: right;
+	margin: 95px 0 0 0;
+}
+
+div#navigation {
+	clear: both;
+}
+
 div.content {
 	line-height: 1.4em;
 }
+
+
 
 /*****************************************************************************/
 /*
