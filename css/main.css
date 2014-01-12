@@ -89,6 +89,10 @@ div#wrapper {
     -webkit-font-smoothing: antialiased;
 }
 
+.footnote-content-wrapper p {
+	margin: 0;
+}
+
 /*****************************************************************************/
 /*
 /* Share/About Buttons
