@@ -41,6 +41,14 @@ a:hover {
 	color: #10c413;
 }
 
+img {
+	max-width: 640px;
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+	clear: both;
+}
+
 div#wrapper {
 	width: 640px;
 	margin: 0 auto;
