@@ -9,7 +9,7 @@ layout: default
 						<span class="post-date">{% if post.updated %}Last updated {{ post.updated | date: "%B %e, %Y"}}{% else %}{{ post.date | date: "%B %e, %Y"}}{% endif %}</span>
 					</div><!-- .post-header -->
 					
-					<div class="post-content">
+					<div class="content">
 						{% capture footnote_id %}footnote:{{ post.date | date: '%Y%m%d' }}{% endcapture %}
 						{% capture footnote_ref_id %}footnoteref:{{ post.date | date: '%Y%m%d' }}{% endcapture %}
 						{{ post.content | replace: "fn:", footnote_id | replace: "fnref:", footnote_ref_id }}
