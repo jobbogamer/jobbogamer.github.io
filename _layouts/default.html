@@ -27,32 +27,29 @@
     </head>
     
     <body>
-    	<div id="masthead-background"></div>
-		<div id="wrapper">
-			<div id="header">
-				<div id="masthead">
-					<a href="/">
-						<h1 id="site-name">{{ site.name }}</h1>
-						<img id="logo" src="/icons/logo.png" width="128" height="128" />
-					</a>
-				</div><!-- #masthead -->
-				
-				<div id="navigation">
-					<ul>
-						<li><a href="/about">About</a></li>
-						<li><a href="/archive">Archive</a></li>
-					</ul>
-				</div><!-- #navigation -->
-			</div><!-- #header -->
+		<div id="header">
+			<div id="masthead">
+				<a href="/">
+					<h1 id="site-name">{{ site.name }}</h1>
+					<img id="logo" src="/icons/logo.png" width="128" height="128" />
+				</a>
+			</div><!-- #masthead -->
 			
-			<div id="posts">
-				{{ content }}
-			</div><!-- #content -->
-			
-			<div id="footer">
-				<p><a href="/archive">Archive</a> • <a href="/atom.xml">RSS</a></p>
-				<p>&copy; 2010–{{ site.time | date: "%Y" }} <a href="/about">{{ site.author }}</a></p>
-			</div><!-- #footer -->
-		</div><!-- #wrapper -->
+			<div id="navigation">
+				<ul>
+					<li><a href="/about">About</a></li>
+					<li><a href="/archive">Archive</a></li>
+				</ul>
+			</div><!-- #navigation -->
+		</div><!-- #header -->
+		
+		<div id="posts">
+			{{ content }}
+		</div><!-- #content -->
+		
+		<div id="footer">
+			<p><a href="/archive">Archive</a> • <a href="/atom.xml">RSS</a></p>
+			<p>&copy; 2010–{{ site.time | date: "%Y" }} <a href="/about">{{ site.author }}</a></p>
+		</div><!-- #footer -->
 	</body>
 </html>

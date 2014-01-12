@@ -54,27 +54,25 @@ img {
 	clear: both;
 }
 
-div#masthead-background {
-	height: 189px;
-	margin-bottom: -189px;
-	background-color: #eee;
-}
-
-div#wrapper {
-	width: 640px;
-	margin: 0 auto;
-}
-
 h1#site-name {
 	margin: 16px 0 0 0;
 	text-align: center;
+}
+
+div#navigation {
+	background-color: #fcfcfc;
+	border: 1px solid #eeeeee;
+	margin-bottom: 24px;
 }
 
 div.content {
 	line-height: 1.4em;
 }
 
-
+div#posts {
+	width: 640px;
+	margin: 0 auto;
+}
 
 /*****************************************************************************/
 /*
