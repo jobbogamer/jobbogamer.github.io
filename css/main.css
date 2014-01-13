@@ -98,6 +98,12 @@ div#posts {
 	margin: 0 auto;
 }
 
+div.content {
+	padding-bottom: 24px;
+	margin-bottom: 44px;
+	border-bottom: 1px solid #cccccc;
+}
+
 div#footer {
 	background-color: #fcfcfc;
 	background: -webkit-linear-gradient(#f1f1f1 0%, #ffffff 100%);
