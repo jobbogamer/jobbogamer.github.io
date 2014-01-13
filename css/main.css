@@ -29,7 +29,7 @@ p {
 
 body {
 	font-size: 1.25em;
-	font-family: 'Nobile', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -52,6 +52,10 @@ img {
 	text-align: center;
 	display: block;
 	clear: both;
+}
+
+h1, h2, h3 {
+	font-family: "PT Sans", sans-serif;
 }
 
 h1#site-name {
