@@ -98,6 +98,20 @@ div#posts {
 	margin: 0 auto;
 }
 
+div#footer {
+	background-color: #fcfcfc;
+	background: -webkit-linear-gradient(#f1f1f1 0%, #ffffff 100%);
+	text-align: center;
+	border-top: 1px solid #cccccc;
+	font-size: 0.8em;
+	padding-bottom: 0.4em;
+	margin-top: 24px;
+}
+
+div#footer p {
+	margin: 0.4em 0;
+}
+
 /*****************************************************************************/
 /*
 /* Home
