@@ -18,7 +18,7 @@ layout: default
 			{% endfor %}
 				{% if paginator.total_pages > 1 %}
 				<div id="pagination">
-					{% if paginator.next_page %}<a id="older-posts" href="{{ paginator.next_page_path }}">&larr; Older Posts</a>{% endif %}
-					{% if paginator.previous_page %}<a id="newer-posts" href="{{ paginator.previous_page_path }}">Newer Posts &rarr;</a>{% endif %}
+					<div id="older-posts">{% if paginator.next_page %}<a href="{{ paginator.next_page_path }}">&larr; Older Posts</a>{% endif %}</div>
+					<div id="newer-posts">{% if paginator.previous_page %}<a href="{{ paginator.previous_page_path }}">Newer Posts &rarr;</a>{% endif %}</div>
 				</div><!-- #pagination -->
 				{% endif %}
