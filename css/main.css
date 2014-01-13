@@ -98,9 +98,12 @@ div#posts {
 	margin: 0 auto;
 }
 
+div#posts article {
+	margin-top: 24px;
+}
+
 div.content {
-	padding-bottom: 24px;
-	margin-bottom: 44px;
+	padding-bottom: 4px;
 	border-bottom: 1px solid #cccccc;
 }
 
