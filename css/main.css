@@ -58,6 +58,14 @@ h1, h2, h3 {
 	font-family: "PT Sans", sans-serif;
 }
 
+ul {
+	margin: 1em 0;
+}
+
+ul li {
+	margin-bottom: 0.5em;
+}
+
 div#masthead {
 	background-color: #fcfcfc;
 	background: -webkit-linear-gradient(#ffffff 0%, #e4e4e4 100%);
