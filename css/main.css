@@ -102,6 +102,11 @@ div#posts article {
 	margin-top: 24px;
 }
 
+span.post-date {
+	color: #999999;
+	font-size: 0.85em;
+}
+
 div.content {
 	padding-bottom: 4px;
 	border-bottom: 1px solid #cccccc;
