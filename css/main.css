@@ -69,6 +69,17 @@ div#navigation {
 	margin-bottom: 24px;
 }
 
+div#navigation ul {
+	width: 640px;
+	margin: 0 auto;
+	list-style-type: none;
+}
+
+div#navigation ul li {
+	display: inline;
+	margin-right: 16px;
+}
+
 div.content {
 	line-height: 1.4em;
 }
