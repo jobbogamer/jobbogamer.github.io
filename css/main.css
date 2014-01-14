@@ -30,6 +30,7 @@ p {
 body {
 	font-size: 1.25em;
 	font-family: 'Lato', sans-serif;
+	font-weight: 300;
 }
 
 a {
@@ -56,6 +57,7 @@ img {
 
 h1, h2, h3 {
 	font-family: "PT Sans", sans-serif;
+	font-weight: bold;
 }
 
 ul {
