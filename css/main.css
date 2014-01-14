@@ -74,6 +74,14 @@ hr {
 	border-top: 1px solid #cccccc;
 }
 
+pre, code {
+	font-family: 'Monaco', monospace;
+	font-size: 0.9em;
+	background-color: #f1f1f1;
+	border: 1px solid #cccccc;
+	padding: 0 4px;
+}
+
 div#masthead {
 	background-color: #fcfcfc;
 	background: -webkit-linear-gradient(#ffffff 0%, #e4e4e4 100%);
@@ -133,6 +141,11 @@ div.highlight {
 	border: 1px solid #cccccc;
 	padding: 4px 8px;
 	background: #f1f1f1;
+}
+
+div.highlight pre, div.highlight code {
+	border: none;
+	padding: 0;
 }
 
 div#pagination {
