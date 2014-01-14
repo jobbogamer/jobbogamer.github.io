@@ -66,6 +66,12 @@ ul li {
 	margin-bottom: 0.5em;
 }
 
+hr {
+	height: 1px;
+	border: none;
+	border-top: 1px solid #cccccc;
+}
+
 div#masthead {
 	background-color: #fcfcfc;
 	background: -webkit-linear-gradient(#ffffff 0%, #e4e4e4 100%);
