@@ -5,7 +5,9 @@ categories: [Games, iOS]
 layout: post
 ---
 
-[Letterpress][1] is the fun new word game from Loren Brichter, of Tweetie fame. Since you've probably played the game before I won't go into details about the game itself (you could always go to the [Letterpress page][2]). Disclaimer: These are just some handy tips to help you do better when playing Letterpress. I can't guarantee you'll win more games than you did before. <!-- more -->
+[Letterpress][1] is the fun new word game from Loren Brichter, of Tweetie fame. Since you've probably played the game before I won't go into details about the game itself (you could always go to the [Letterpress page][2]).
+
+These are just some handy tips to help you do better when playing Letterpress. I can't guarantee you'll win more games than you did before. <!-- more -->
 
 ### Play the longest possible variant
 
