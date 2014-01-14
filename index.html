@@ -12,7 +12,8 @@ layout: default
 					<div class="content">
 						{% capture footnote_id %}footnote:{{ post.date | date: '%Y%m%d' }}{% endcapture %}
 						{% capture footnote_ref_id %}footnoteref:{{ post.date | date: '%Y%m%d' }}{% endcapture %}
-						{{ post.content | replace: "fn:", footnote_id | replace: "fnref:", footnote_ref_id }}
+						{{ post.content | split: "<!-- more -->" | first | replace: "fn:", footnote_id | replace: "fnref:", footnote_ref_id }}
+						{% if post.content contains "<!-- more -->" %}<p><a href="{{ post.url }}">Read the rest &rarr;</a></p>{% endif %}
 					</div><!-- .post-content -->
 				</article>
 			{% endfor %}
