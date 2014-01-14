@@ -9,6 +9,8 @@ Version 8.0 of Messages.app, shipped with OS X Mavericks, has a new feature whic
 
 Personally, I prefer to send the actual text rather than an Emoji symbol, but I couldn't find anywhere in the app's preferences to turn it off. After a lot of searching, it turns out the answer is simple. Just click in the text field in Messages and deselect **Edit → Substitutions → Emoji**[^1], and emoticons will no longer be replaced with Emoji symbols.
 
-![](/images/2013/12/27/disable-automatic-emoji-in-messages-on-mavericks/Disable-Emoji.png)
+![][img1]
 
 [^1]: You can also right click in the text field and deselect **Substitutions → Emoji**.
+
+[img1]: /images/2013/12/27/Disable_Emoji.png

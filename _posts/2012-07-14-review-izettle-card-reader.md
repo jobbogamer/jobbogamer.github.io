@@ -1,18 +1,20 @@
 ---
 title: "Review: iZettle Card Reader"
+date: 2012-07-14
+layout: post
 ---
 
-I recently received my [iZettle](https://www.izettle.com/gb) card reader as part of their beta program. Anyone can sign up to the program, but I thought I'd share my thoughts on the product (and to be honest, save you the bother of getting one yourself).
+I recently received my [iZettle](https://www.izettle.com/gb) card reader as part of their beta program. Anyone can sign up to the program, but I thought I'd share my thoughts on the product (and to be honest, save you the bother of getting one yourself).<!-- more -->
 
 ### The reader itself
 
 From a manufacturing perspective, the iZettle feels a bit cheap. Of course you might expect this from something that will ultimately be given away free, but even then this still seems flimsy. It only takes a small amount of pressure to bend the top in towards the bottom. However, that said, the dock connector end does seem fairly sturdy and doesn't feel like it could break off inside your iPhone.
 
-![](/wp-content/uploads/2012/07/iZettle.jpg)
+![][img1]
 
 Unfortunately, due to the iZettle's purpose, reading chip-enabled cards, the thing is pretty big. When connected to an iPhone, the phone's size increases by about a half, and once a card is inserted, that pokes out enough to make it around two phone lengths long. If I was running a shop or a stand using the iZettle as my only payment method I think I'd get a bit sick of carrying this huge thing around.
 
-![](http://josh-asch.net/wp-content/uploads/2012/07/iPhone-+-iZettle-+-Card.jpg)
+![][img2]
 
 ### Card support
 
@@ -24,7 +26,7 @@ Truth be told, the iZettle app isn't actually that bad. It's clear and lets you 
 
 You can also use the app to keep track of cash payments as well, although nothing actually happens in the app except a transaction is logged. The tender screen on the iPad is very helpful though, showing three amounts that are most likely to be paid that can be tapped easily, or allowing an amount to be typed.
 
-![](/wp-content/uploads/2012/07/iZettle-Cash-Payment.png)
+![][img3]
 
 The iPad version of the app allows you to add products to a catalogue, then use those products to build an itemised receipt that can be emailed to the person.
 
@@ -41,3 +43,7 @@ When it comes to the transaction fees, iZettle takes 2.75% of all transactions u
 The answer at the moment would have to be no. Unless you happen to know that every payment you're going to take will be using a MasterCard, you'll end up turning so many people away it won't be worth getting out the iZettle each time just to put it away again. The app is very nice, especially the iPad version, but without good card support it's nearly useless.
 
 [1]: https://www.izettle.com/#register
+
+[img1]: /images/2012/07/14/iZettle.jpg
+[img2]: /images/2012/07/14/iPhone_iZettle_Card.jpg
+[img3]: /images/2012/07/14/Cash_Payment.png
