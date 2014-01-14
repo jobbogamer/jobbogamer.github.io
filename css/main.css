@@ -128,6 +128,13 @@ div.content {
 	border-bottom: 1px solid #cccccc;
 }
 
+div.highlight {
+	overflow: scroll;
+	border: 1px solid #cccccc;
+	padding: 4px 8px;
+	background: #f1f1f1;
+}
+
 div#pagination {
 	padding-top: 24px;
 	clear: both;
