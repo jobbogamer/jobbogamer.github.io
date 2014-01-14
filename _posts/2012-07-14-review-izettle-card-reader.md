@@ -20,15 +20,21 @@ This is the main problem with iZettle. The support for cards (at least in this c
 
 ### The companion app
 
-Truth be told, the iZettle app isn't actually that bad. It's clear and lets you take a payment straight away after opening the app. You can take a payment without using the card reader, but again, Visa isn't supported so I couldn't test that out. You can also use the app to keep track of cash payments as well, although nothing actually happens in the app except a transaction is logged. The tender screen on the iPad is very helpful though, showing three amounts that are most likely to be paid that can be tapped easily, or allowing an amount to be typed.
+Truth be told, the iZettle app isn't actually that bad. It's clear and lets you take a payment straight away after opening the app. You can take a payment without using the card reader, but again, Visa isn't supported so I couldn't test that out.
+
+You can also use the app to keep track of cash payments as well, although nothing actually happens in the app except a transaction is logged. The tender screen on the iPad is very helpful though, showing three amounts that are most likely to be paid that can be tapped easily, or allowing an amount to be typed.
 
 ![](/wp-content/uploads/2012/07/iZettle-Cash-Payment.png)
 
-The iPad version of the app allows you to add products to a catalogue, then use those products to build an itemised receipt that can be emailed to the person. With regards to security, when taking a payment the cardholder has to sign on the device, which renders the chip reader a bit useless seeing as reading the magnetic strip is enough if you're authorising using a signature. If the authorisation is done using a signature, the iZettle didn't need to be the size it is, since it could have just been a small accessory the card can be swiped through. 
+The iPad version of the app allows you to add products to a catalogue, then use those products to build an itemised receipt that can be emailed to the person.
+
+With regards to security, when taking a payment the cardholder has to sign on the device, which renders the chip reader a bit useless seeing as reading the magnetic strip is enough if you're authorising using a signature. If the authorisation is done using a signature, the iZettle didn't need to be the size it is, since it could have just been a small accessory the card can be swiped through. 
 
 ### Pricing
 
-The good thing about the iZettle is you can pick one up for free at the moment by [requesting an invite][1] to the beta program. I couldn't find any information about whether it will cost anything once it is released generally. The app is also free to download. When it comes to the transaction fees, iZettle takes 2.75% of all transactions using a MasterCard or Diners Club card, and 2.95% on Amex transactions. If you don't use the card reader and enter card details manually, the fee is £0.10 plus 3.5% of the transaction amount. These fees don't seem too bad compared to the amount PayPal take, for example. 
+The good thing about the iZettle is you can pick one up for free at the moment by [requesting an invite][1] to the beta program. I couldn't find any information about whether it will cost anything once it is released generally. The app is also free to download.
+
+When it comes to the transaction fees, iZettle takes 2.75% of all transactions using a MasterCard or Diners Club card, and 2.95% on Amex transactions. If you don't use the card reader and enter card details manually, the fee is £0.10 plus 3.5% of the transaction amount. These fees don't seem too bad compared to the amount PayPal take, for example. 
 
 ### Should I get one?
 
