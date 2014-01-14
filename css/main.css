@@ -435,3 +435,51 @@ a.share-icon.delicious:hover {
     border-color: #666;
     border-color: #6793fc
 }
+
+/*****************************************************************************/
+/*
+/* Medium-sized screens
+/*
+/*****************************************************************************/
+
+@media (max-width: 680px) {
+	div#navigation {
+		width: 500px;
+	}
+	
+	div#navigation ul {
+		width: 500px;
+	}
+	
+	div#posts {
+		width: 500px;
+	}
+	
+	div.share {
+		width: 500px;
+	}
+}
+
+/*****************************************************************************/
+/*
+/* iPhone-sized screens
+/*
+/*****************************************************************************/
+
+@media (max-width: 520px) {
+	div#navigation {
+		width: 300px;
+	}
+	
+	div#navigation ul {
+		width: 300px;
+	}
+	
+	div#posts {
+		width: 300px;
+	}
+	
+	div.share {
+		width: 300px;
+	}
+}
