@@ -139,7 +139,7 @@ div.content {
 div.highlight {
 	overflow: scroll;
 	border: 1px solid #cccccc;
-	padding: 4px 8px;
+	padding: 8px;
 	background: #f1f1f1;
 }
 
