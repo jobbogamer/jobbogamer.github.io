@@ -5,7 +5,7 @@
         <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.name }}</title>
         
         <meta name="author" content="{{ site.author }}" />
-        {% capture description %}{% if page.url == '/index.html' %}{{ site.description }}{% else %}{{ page.excerpt }}{% endif %}{% endcapture %}
+        {% capture description %}{% if page.excerpt %}{{ page.excerpt }}{% else %}{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}{% endif %}{% endcapture %}
 		<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:155 }}" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="canonical" content="{{ site.url }}{{ page.url }}" />
