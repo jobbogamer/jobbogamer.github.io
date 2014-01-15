@@ -11,6 +11,9 @@ title: Archive
 						{% unless year == this_year %}{% assign year = this_year %}
 							<h2 class="year">{{ year }}</h2>
 						{% endunless %}
-							<p><a class="post-title" href="{{ post.url }}">{{ post.title }}</a><span class="date"> - {{ post.date | date: "%b %d" }}</span></p>
+							<div class="archive-post">
+							<span class="date">{{ post.date | date: "%b %d" }}</span>
+							<p><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></p>
+							</div>
 						{% endfor %}
 						</div>
