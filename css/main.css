@@ -140,6 +140,11 @@ div#posts article {
 	margin-top: 24px;
 }
 
+span.link-arrow {
+	color: #999999;
+	font-size: 0.85em;
+}
+
 span.post-date {
 	color: #999999;
 	font-size: 0.85em;
