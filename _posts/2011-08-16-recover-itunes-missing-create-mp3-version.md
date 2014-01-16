@@ -27,6 +27,6 @@ What you need to do is convert those files to MP3 format. However, in order to d
 
 Once all the tracks you want to burn are in MP3 format, you'll be able to burn an MP3 disc just fine.
 
-[img1]: /images/2011/08/16/Can't_Burn.png
-[img2]: /images/2011/08/16/General_Preferences.png
-[img3]: /images/2011/08/16/Import_Settings.png
+[img1]: {{ site.url }}/images/2011/08/16/Can't_Burn.png
+[img2]: {{ site.url }}/images/2011/08/16/General_Preferences.png
+[img3]: {{ site.url }}/images/2011/08/16/Import_Settings.png

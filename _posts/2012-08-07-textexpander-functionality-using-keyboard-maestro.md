@@ -36,7 +36,7 @@ Now in most applications typing the trigger will insert the text entered into th
 [1]: http://www.keyboardmaestro.com/main/
 [2]: http://smilesoftware.com/TextExpander/index.html
 
-[img1]: /images/2012/08/07/Trigger_Settings.png
-[img2]: /images/2012/08/07/Insert_By_Pasting.png
-[img3]: /images/2012/08/07/Delete_Past_Clipboard.png
-[img4]: /images/2012/08/07/Entire_Macro.png
+[img1]: {{ site.url }}/images/2012/08/07/Trigger_Settings.png
+[img2]: {{ site.url }}/images/2012/08/07/Insert_By_Pasting.png
+[img3]: {{ site.url }}/images/2012/08/07/Delete_Past_Clipboard.png
+[img4]: {{ site.url }}/images/2012/08/07/Entire_Macro.png

@@ -13,4 +13,4 @@ Personally, I prefer to send the actual text rather than an Emoji symbol, but I 
 
 [^1]: You can also right click in the text field and deselect **Substitutions → Emoji**.
 
-[img1]: /images/2013/12/27/Disable_Emoji.png
+[img1]: {{ site.url }}/images/2013/12/27/Disable_Emoji.png

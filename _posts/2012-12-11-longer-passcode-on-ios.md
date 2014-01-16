@@ -17,5 +17,5 @@ You'll be prompted to enter your current passcode (if you have one), and then to
 
 You can also add letters to the passcode, but the regular iOS keyboard will show up on the lock screen instead.
 
-[img1]: /images/2012/12/11/Passcode_Lock_Settings.png =320x480
-[img2]: /images/2012/12/11/Long_Passcode_Lock_Screen.png =320x480
+[img1]: {{ site.url }}/images/2012/12/11/Passcode_Lock_Settings.png =320x480
+[img2]: {{ site.url }}/images/2012/12/11/Long_Passcode_Lock_Screen.png =320x480

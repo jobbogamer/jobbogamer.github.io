@@ -44,6 +44,6 @@ The answer at the moment would have to be no. Unless you happen to know that eve
 
 [1]: https://www.izettle.com/#register
 
-[img1]: /images/2012/07/14/iZettle.jpg
-[img2]: /images/2012/07/14/iPhone_iZettle_Card.jpg
-[img3]: /images/2012/07/14/Cash_Payment.png
+[img1]: {{ site.url }}/images/2012/07/14/iZettle.jpg
+[img2]: {{ site.url }}/images/2012/07/14/iPhone_iZettle_Card.jpg
+[img3]: {{ site.url }}/images/2012/07/14/Cash_Payment.png

@@ -33,5 +33,5 @@ This is especially useful for those of us with a Magic Mouse, since the mouse do
 [1]: http://kevingessner.com/software/functionflip/
 [2]: http://itunes.apple.com/gb/app/os-x-lion/id444303913?mt=12&at=10l7rn
 
-[img1]: /images/2011/07/22/FunctionFlip.png
-[img2]: /images/2011/07/22/Shortcuts.png
+[img1]: {{ site.url }}/images/2011/07/22/FunctionFlip.png
+[img2]: {{ site.url }}/images/2011/07/22/Shortcuts.png

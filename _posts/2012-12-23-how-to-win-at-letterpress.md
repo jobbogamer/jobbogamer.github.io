@@ -46,4 +46,4 @@ Don't forget, the whole point of Letterpress is to enjoy the time you spend play
 [2]: http://www.atebits.com/letterpress/
 [3]: https://twitter.com/jobbogamer/status/282226813567131648
 
-[img1]: /images/2012/12/23/Letterpress_Territory_Example.png =640x320
+[img1]: {{ site.url }}/images/2012/12/23/Letterpress_Territory_Example.png =640x320

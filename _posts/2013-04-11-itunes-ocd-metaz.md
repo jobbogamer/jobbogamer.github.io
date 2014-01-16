@@ -36,7 +36,7 @@ When you are finished editing, click Write in the toolbar and the metadata will 
 [3]: http://www.themoviedb.org
 [4]: http://thetvdb.com
 
-[img1]: /images/2013/04/11/No_Description_Available.png
-[img2]: /images/2013/04/11/MetaZ_Main_Window.png
-[img3]: /images/2013/04/11/Episode_Dates.png
-[img4]: /images/2013/04/11/MetaZ_Loaded_Metadata.png
+[img1]: {{ site.url }}/images/2013/04/11/No_Description_Available.png
+[img2]: {{ site.url }}/images/2013/04/11/MetaZ_Main_Window.png
+[img3]: {{ site.url }}/images/2013/04/11/Episode_Dates.png
+[img4]: {{ site.url }}/images/2013/04/11/MetaZ_Loaded_Metadata.png
