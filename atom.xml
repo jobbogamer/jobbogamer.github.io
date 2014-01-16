@@ -20,7 +20,7 @@ layout: nil
     <link href="{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
-    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}<br /><br /><a href="{{ site.url }}{{ post.url }}>Permalink</a>"]]></content>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}{% if post.link %}<br /><br /><a href="{{ site.url }}{{ post.url }}">Permalink</a>{% endif %}]]></content>
   </entry>
   {% endfor %}
 </feed>
