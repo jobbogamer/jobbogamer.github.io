@@ -224,6 +224,22 @@ div#archive span.date {
 
 /*****************************************************************************/
 /*
+/* About
+/*
+/*****************************************************************************/
+
+div.contact-methods {
+	text-align: center;
+	width: 640px;
+	margin: 1.5em 0; 
+}
+
+div#about h3 {
+	margin-top: 1em;
+}
+
+/*****************************************************************************/
+/*
 /* Bigfoot Footnotes
 /*
 /*****************************************************************************/
@@ -378,10 +394,10 @@ a.share-icon.github {
 }
 
 a.share-icon.github:hover {
-    background-color: #86d1fc;
+    background-color: #000000;
     background-position: -2px -110px;
     border-color: #50717d;
-    border-color: #86d1fc
+    border-color: #000000
 }
 
 a.share-icon.flickr {
