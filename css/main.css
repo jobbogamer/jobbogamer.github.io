@@ -13,7 +13,7 @@ html {
 	height: 100%;
 }
 
-h1 { 
+h1 {
 	margin-bottom: 1em;
 }
 
@@ -229,7 +229,7 @@ div#archive h2 {
 }
 
 div#archive p {
-	margin: 0 0 0.8em 0; 
+	margin: 0 0 0.8em 0;
 }
 
 div#archive span.date {
@@ -246,11 +246,22 @@ div#archive span.date {
 div.contact-methods {
 	text-align: center;
 	width: 640px;
-	margin: 1.5em 0; 
+	margin: 1.5em 0;
 }
 
 div#about h3 {
 	margin-top: 1em;
+}
+
+/*****************************************************************************/
+/*
+/* Projects
+/*
+/*****************************************************************************/
+
+div#projects div.project {
+	width: 200px;
+	background: purple;
 }
 
 /*****************************************************************************/
@@ -480,15 +491,15 @@ a.share-icon.delicious:hover {
 	div#navigation {
 		width: 500px;
 	}
-	
+
 	div#navigation ul {
 		width: 500px;
 	}
-	
+
 	div#posts {
 		width: 500px;
 	}
-	
+
 	div.share {
 		width: 500px;
 	}
@@ -504,15 +515,15 @@ a.share-icon.delicious:hover {
 	div#navigation {
 		width: 300px;
 	}
-	
+
 	div#navigation ul {
 		width: 300px;
 	}
-	
+
 	div#posts {
 		width: 300px;
 	}
-	
+
 	div.share {
 		width: 300px;
 	}
