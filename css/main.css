@@ -283,6 +283,15 @@ div#projects div.project p.name {
 	font-size: 0.9em;
 }
 
+div#projects div.project p.meta {
+	font-size: 0.8em;
+	color: grey;
+}
+
+div#projects div.project p.description {
+	font-size: 0.8em;
+}
+
 div#projects h3 {
 	clear: both;
 }
