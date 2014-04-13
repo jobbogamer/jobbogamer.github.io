@@ -268,6 +268,7 @@ div#projects div.project {
 	background: purple;
 	float: left;
 	text-align: center;
+	margin: 20px 0;
 }
 
 div#projects div.project.middle {
@@ -281,7 +282,6 @@ div#projects div.project img {
 
 div#projects h3 {
 	clear: both;
-	margin: 20px 0;
 }
 
 /*****************************************************************************/
