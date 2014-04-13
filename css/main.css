@@ -279,6 +279,10 @@ div#projects div.project img {
 	height: 128px;
 }
 
+div#projects div.project p.name {
+	font-size: 0.9em;
+}
+
 div#projects h3 {
 	clear: both;
 }
