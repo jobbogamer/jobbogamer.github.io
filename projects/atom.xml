@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[{{ site.name | cdata_escape }}]]></title>
+  <link href="{{ site.url }}/projects/atom.xml" rel="self"/>
+  <link href="{{ site.url }}/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/</id>
+  <author>
+    <name><![CDATA[{{ site.author | strip_html }}]]></name>
+    {% if site.email %}<email><![CDATA[{{ site.email }}]]></email>{% endif %}
+  </author>
+
+  {% for post in site.posts limit: 20 %}
+  {% if post.type == "project" %}
+  <entry>
+    <title type="html"><![CDATA[{{ post.name | cdata_escape }}]]></title>
+    <link href="{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}"/>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}{{ post.id }}</id>
+    <content type="html"><![CDATA[<img src="{{ site.url }}{{ post.icon }}" width="128" height="128" /><p>{{ post.name | cdata_escape }} - {{ post.meta | cdata_escape }}</p><p>{{ post.description | cdata_escape }}</p>]]></content>
+  </entry>
+  {% endif %}
+  {% endfor %}
+</feed>
