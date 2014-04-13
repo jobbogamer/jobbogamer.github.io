@@ -281,15 +281,18 @@ div#projects div.project img {
 
 div#projects div.project p.name {
 	font-size: 0.9em;
+	margin-bottom: 0;
 }
 
 div#projects div.project p.meta {
 	font-size: 0.8em;
+	margin: 0;
 	color: grey;
 }
 
 div#projects div.project p.description {
 	font-size: 0.8em;
+	margin-top: 8px;
 }
 
 div#projects h3 {
