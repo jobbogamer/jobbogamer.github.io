@@ -265,6 +265,10 @@ div#projects div.project {
 	float: left;
 }
 
+div#projects h3 {
+	clear: both;
+}
+
 /*****************************************************************************/
 /*
 /* Bigfoot Footnotes
