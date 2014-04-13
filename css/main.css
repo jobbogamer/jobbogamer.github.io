@@ -287,7 +287,7 @@ div#projects div.project p.name {
 div#projects div.project p.meta {
 	font-size: 0.8em;
 	margin: 0;
-	color: grey;
+	color: #999999;
 }
 
 div#projects div.project p.description {
