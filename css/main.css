@@ -269,6 +269,11 @@ div#projects div.project.middle {
 	margin: 0 20px;
 }
 
+div#projects div.project img {
+	width: 128px;
+	height: 128px;
+}
+
 div#projects h3 {
 	clear: both;
 }
