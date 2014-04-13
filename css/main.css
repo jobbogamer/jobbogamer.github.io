@@ -292,7 +292,7 @@ div#projects div.project p.meta {
 
 div#projects div.project p.description {
 	font-size: 0.8em;
-	margin-top: 8px;
+	margin: 0;
 }
 
 div#projects h3 {
