@@ -259,6 +259,10 @@ div#about h3 {
 /*
 /*****************************************************************************/
 
+div#projects {
+	overflow: auto; /* clearfix */
+}
+
 div#projects div.project {
 	width: 200px;
 	background: purple;
