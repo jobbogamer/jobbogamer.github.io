@@ -263,6 +263,9 @@ div#projects div.project {
 	width: 200px;
 	background: purple;
 	float: left;
+}
+
+div#projects div.project.middle {
 	margin: 0 10px;
 }
 
