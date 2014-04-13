@@ -550,6 +550,10 @@ a.share-icon.delicious:hover {
 /*****************************************************************************/
 
 @media (max-width: 520px) {
+	body {
+		font-weight: normal;
+	}
+
 	div#navigation {
 		width: 300px;
 	}
