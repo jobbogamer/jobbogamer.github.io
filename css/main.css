@@ -264,14 +264,10 @@ div#projects {
 }
 
 div#projects div.project {
-	width: 300px;
+	width: 290px;
 	float: left;
 	text-align: center;
-	margin: 20px 0;
-}
-
-div#projects div.project.left {
-	margin-right: 40px;
+	margin: 20px 15px;
 }
 
 div#projects div.project img {

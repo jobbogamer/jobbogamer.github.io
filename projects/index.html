@@ -7,24 +7,14 @@ description: "Josh Asch's projects, past and present."
 <p>These are all my projects, past and present.</p>
 
 <div id="projects">
-	<div class="project left">
-		<img class="icon" src="ios-app.png" />
-		<p class="name">???</p>
-		<p class="meta">iOS App</p>
-		<p class="description">Coming soon.</p>
+	{% for post in site.posts %}
+	{% if post.type == "project" %}
+	<div class="project">
+		<img class="icon" src="{{ post.icon }}" />
+		<p class="name">{{ post.name }}</p>
+		<p class="meta">{{ post.meta }}</p>
+		<p class="description">{{ post.description }}</p>
 	</div>
-
-	<div class="project right">
-		<img class="icon" src="emojiboard.png" />
-		<p class="name"><a href="/emoji">EmojiBoard</a></p>
-		<p class="meta">Web App</p>
-		<p class="description">A quick way to access Emoji on iOS without having the keyboard turned on.</p>
-	</div>
-
-	<div class="project left">
-		<img class="icon" src="alfred-workflow.png" />
-		<p class="name"><a href="https://github.com/jobbogamer/alfred-emoji-workflow">Alfred Emoji Workflow</a></p>
-		<p class="meta">Alfred 2 Workflow</p>
-		<p class="description">Alfred 2 workflow for finding Emoji symbols.</p>
-	</div>
+	{% endif %}
+	{% endfor %}
 </div>
