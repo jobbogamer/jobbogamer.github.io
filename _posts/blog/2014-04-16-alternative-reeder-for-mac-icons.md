@@ -13,9 +13,9 @@ and one for when you have unread articles:
 
 ![Screenshot of new icon][img2]
 
-The .icns files I created are available to use; download them [here][2].
+The icons are available to use; download them [here][2].
 
-All you have to do to use the icons is go to Reeder in the Finder, right-click and choose **Show Package Contents**. Then, navigate to **Contents → Resources** and replace the existing icons, `reeder.icns` and `reeder-empty.icns` with the new ones.
+All you have to do to use the icons is go to Reeder in the Finder, right-click and choose **Show Package Contents**. Then, navigate to **Contents → Resources** and replace the existing icons, `reeder.icns` and `reeder-empty.icns`, with the new ones.
 
 The only problem is the icons will revert to the old ones whenever you install a new version of the app.
 
