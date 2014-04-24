@@ -8,6 +8,7 @@ description: "All the blog posts ever published on Josh Asch's blog."
 
 						<div id="archive">
 						{% for post in site.posts %}
+						{% if post.type != "project" %}
 						{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 						{% unless year == this_year %}{% assign year = this_year %}
 							<h2 class="year">{{ year }}</h2>
@@ -16,5 +17,6 @@ description: "All the blog posts ever published on Josh Asch's blog."
 							<span class="date">{{ post.date | date: "%b %d" }}</span>
 							<p><a class="post-title" href="{{ post.url }}">{{ post.title }}</a></p>
 							</div>
+						{% endif %}
 						{% endfor %}
 						</div>
