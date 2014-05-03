@@ -10,7 +10,9 @@ description: "Josh Asch's projects, past and present."
 	{% for post in site.posts %}
 	{% if post.type == "project" %}
 	<div class="project">
-		<img class="icon" src="{{ post.icon }}" />
+		<a href="{{ post.link }}">
+			<img class="icon" src="{{ post.icon }}" />
+		</a>
 		<p class="name"><a href="{{ post.link }}">{{ post.name }}</a></p>
 		<p class="meta">{{ post.meta }}</p>
 		<p class="description">{{ post.description }}</p>
