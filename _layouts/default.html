@@ -13,7 +13,7 @@
 		<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
 		<meta property="og:site_name" content="Josh Asch" />
 		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-		<meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:155 }}" />
+		<meta property="og:description" content="{{ description | strip_html | condense_spaces | truncatewords:50 }}" />
 		<meta property="og:image" content="{{ site.url }}/icons/apple-touch-icon.png" />
 		<meta property="fb:app_id" content="700174693381750" />
 
