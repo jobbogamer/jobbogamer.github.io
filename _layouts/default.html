@@ -10,6 +10,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="canonical" content="{{ site.url }}{{ page.url }}" />
 
+		<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
+		<meta property="og:site_name" content="Josh Asch" />
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+		<meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:155 }}" />
+		<meta property="og:image" content="{{ site.url }}/icons/apple-touch-icon.png" />
+		<meta property="fb:app_id" content="700174693381750" />
+
 		<link href='http://fonts.googleapis.com/css?family=Lato:300|PT+Sans' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="/css/syntax.css" />
         <link rel="stylesheet" href="/css/bigfoot-number.css" />
