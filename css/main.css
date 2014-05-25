@@ -335,7 +335,8 @@ a.share-icon {
     background-size: 144px 72px;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url("/icons/share.svg")
+    background-image: url("/icons/share.svg");
+    cursor: pointer;
 }
 
 a.share-icon:hover {
