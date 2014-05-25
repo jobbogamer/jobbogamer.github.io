@@ -22,15 +22,8 @@ function sharePage(url) {
 
 	FB.ui(
 		{
-			method: 'share',
+			method: 'share_open_graph',
 			href: url,
-		},
-		function(response) {
-			if (response && !response.error_code) {
-				alert('Posting completed.');
-			} else {
-				alert('Error while posting.');
-			}
 		}
 	);
 }
