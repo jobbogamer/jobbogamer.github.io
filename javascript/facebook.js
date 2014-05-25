@@ -16,6 +16,10 @@ window.fbAsyncInit = function() {
 
 
 function sharePage(url) {
+	
+	url = url.substring(0, url.length - 1);
+	console.log(url);
+
 	FB.ui(
 		{
 			method: 'share',
