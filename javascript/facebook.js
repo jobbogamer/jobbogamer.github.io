@@ -22,7 +22,7 @@ function sharePage(url) {
 
 	FB.ui(
 		{
-			method: 'share_open_graph',
+			method: 'share',
 			href: url,
 		}
 	);
