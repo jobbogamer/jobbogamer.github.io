@@ -20,7 +20,7 @@ All you have to do to use the icons is go to Reeder in the Finder, right-click a
 The only problem is the icons will revert to the old ones whenever you install a new version of the app.
 
 [1]: http://reederapp.com/mac
-[2]: http://josh-asch.net/downloads/reeder-icons.zip
+[2]: /downloads/reeder-icons.zip
 
-[img1]: http://josh-asch.net/images/2014/04/16/reeder-normal.png
-[img2]: http://josh-asch.net/images/2014/04/16/reeder-new-items.png
+[img1]: /images/2014/04/16/reeder-normal.png
+[img2]: /images/2014/04/16/reeder-new-items.png

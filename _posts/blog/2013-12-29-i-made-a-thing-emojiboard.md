@@ -15,7 +15,7 @@ It works best on iPhone and iPad, and will probably work on Android, but doesn't
 
 The web app itself can be found at [josh-asch.net/emoji][1], and it's open source, so the source can be found [on GitHub][2].
 
-[1]: http://josh-asch.net/emoji/
+[1]: /emoji/
 [2]: http://github.com/jobbogamer/EmojiBoard
 
-[img1]: {{ site.url }}/images/2013/12/29/EmojiBoard.png =320x568
+[img1]: /images/2013/12/29/EmojiBoard.png =320x568
