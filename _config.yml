@@ -6,6 +6,7 @@ url: "http://joshasch.com"
 permalink: /:year/:month/:day/:title/
 
 twitter_handle: jobbogamer
+email: josh@joshasch.com
 
 pygments: true
 
