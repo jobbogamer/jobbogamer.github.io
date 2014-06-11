@@ -9,20 +9,20 @@ I did some research and found out it's incredibly simple to clear out your app's
 
 If your application uses badges, you should be able to clear out entries in Notification Center by setting your badge to zero:
 
-{% highlight objective-c %}
+{% highlight objc %}
 [[UIApplication sharedApplication] setApplicationIconBadgeNumber:0];
 {% endhighlight %}
 
 Or if your badge is already set to zero, you can set it to non-zero, then back to zero straight away and that should work.
 
-{% highlight objective-c %}
+{% highlight objc %}
 [[UIApplication sharedApplication] setApplicationIconBadgeNumber:1];
 [[UIApplication sharedApplication] setApplicationIconBadgeNumber:0];
 {% endhighlight %}
 
 If that doesn't work, you can try setting the list of scheduled local notifications to itself; this keeps any scheduled notifications intact, but also removes old ones from Notification Center.
 
-{% highlight objective-c %}
+{% highlight objc %}
 UIApplication* application = [UIApplication sharedApplication];
 NSArray* scheduledNotifications = [NSArray arrayWithArray:application.scheduledLocalNotifications];
 application.scheduledLocalNotifications = scheduledNotifications;
