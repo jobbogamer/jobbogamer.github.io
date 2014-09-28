@@ -538,6 +538,10 @@ a.share-icon.delicious:hover {
 	div.share {
 		width: 500px;
 	}
+	
+	div.contact-methods {
+		width: 500px;
+	}
 }
 
 /*****************************************************************************/
@@ -564,6 +568,10 @@ a.share-icon.delicious:hover {
 	}
 
 	div.share {
+		width: 300px;
+	}
+	
+	div.contact-methods {
 		width: 300px;
 	}
 }
