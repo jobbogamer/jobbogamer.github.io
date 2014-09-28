@@ -160,6 +160,8 @@ div.highlight {
 	border: 1px solid #cccccc;
 	padding: 8px;
 	background: #f1f1f1;
+	font-size: 0.75em;
+	line-height: 1.2em;
 }
 
 div.highlight pre, div.highlight code {
