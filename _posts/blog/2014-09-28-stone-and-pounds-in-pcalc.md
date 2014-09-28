@@ -11,7 +11,7 @@ I looked for a setting to change Health to imperial units, but the app doesn't a
 
 I decided the way to get around this was to set up a function in [PCalc][1] to convert from stone and pounds to kilograms. This isn't exactly friendly since it adds another step, but without a set of [very expensive scales][2], weight tracking in Health is a manual process anyway.
 
-Using the function in PCalc is fairly simple. You type in the imperial measurement in the form stone.pounds as a fake decimal
+Using the function in PCalc is fairly simple. You type in the imperial measurement in the form stone.pounds as a fake decimal:
 
 ![12.11 entered into PCalc][img1]
 
