@@ -9,6 +9,12 @@
 		<meta name="description" content="{{ description | strip_html | condense_spaces | truncate:155 }}" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="canonical" content="{{ site.url }}{{ page.url }}" />
+		
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@joshasch_com" />
+		<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
+		<meta name="twitter:description" content="{{ description | strip_html | condense_spaces }}" />
+		<meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 
 		<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}" />
 		<meta property="og:site_name" content="Josh Asch" />
