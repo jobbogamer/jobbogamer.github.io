@@ -31,6 +31,8 @@ I know it'd be less complicated to enter a number of pounds, but that would then
 
 Of course it would be much nicer to just be able to enter data into Health in imperial units, but this works fine until then. You can download the function [here][3].
 
+***
+
 **Update, 14th March 2015**
 
 With iOS 8.2, the Health app now allows you to select which units to use for each type of measurement.
