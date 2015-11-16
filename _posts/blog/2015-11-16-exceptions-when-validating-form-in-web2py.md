@@ -1,6 +1,6 @@
 ---
 Title: "Exceptions When Validating Form in web2py"
-layout: "Post"
+layout: post
 ---
 
 I don't normally write about technical development topics, but today I'm making an exception, because finding the source of my problem was incredibly difficult. I'm hoping that this post will serve me in the future when I inevitably come across this problem again. <!-- more -->
