@@ -3,7 +3,7 @@ Title: "Exceptions When Validating Form in web2py"
 layout: "Post"
 ---
 
-I don't normally write about technical development topics, but today I'm making an exception, because finding the source of my problem was incredibly difficult. I'm hoping that this post will serve me in the future when I inevitably come across this problem again.
+I don't normally write about technical development topics, but today I'm making an exception, because finding the source of my problem was incredibly difficult. I'm hoping that this post will serve me in the future when I inevitably come across this problem again. <!-- more -->
 
 For the university assessment I'm working on at the moment, I have to use the [web2py][web2py] Python framework to create a web application. Part of the framework allows you to create and process HTML forms, including performing validation on the user's input.
 
