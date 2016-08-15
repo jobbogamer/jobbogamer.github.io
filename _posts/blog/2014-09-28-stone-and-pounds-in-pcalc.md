@@ -45,6 +45,6 @@ This mostly solves my issue with entering weight, because I can now choose betwe
 [2]: http://www.amazon.co.uk/gp/product/B00BKRQ4E8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00BKRQ4E8&linkCode=as2&tag=josh-asch-21&linkId=WEH5SNS47LCK6KEO
 [3]: /downloads/stone-to-kg.pcalcfunctions
 
-[img1]: /images/2014/09/28/pcalc-stone-before.png =320x568
-[img2]: /images/2014/09/28/pcalc-stone-after.png =320x568
-[img3]: /images/2014/09/28/pcalc-stone-function.png =320x400
+[img1]: /images/2014/09/28/pcalc-stone-before.png
+[img2]: /images/2014/09/28/pcalc-stone-after.png
+[img3]: /images/2014/09/28/pcalc-stone-function.png
