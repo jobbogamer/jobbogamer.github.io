@@ -10,12 +10,5 @@ email: josh@joshasch.com
 
 highlighter: pygments
 
-markdown: rdiscount
-rdiscount:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
-
 paginate: 5
 paginate_path: "page/:num"
