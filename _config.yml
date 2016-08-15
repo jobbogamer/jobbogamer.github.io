@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title/
 twitter_handle: jobbogamer
 email: josh@joshasch.com
 
-highlighter: pygments
+highlighter: rouge
 
 paginate: 5
 paginate_path: "page/:num"
