@@ -1,5 +1,5 @@
 ---
-Title: "Exceptions When Validating Form in web2py"
+Title: "Exceptions When Validating Forms in web2py"
 layout: post
 ---
 
