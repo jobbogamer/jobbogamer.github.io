@@ -1,5 +1,5 @@
 ---
-Title: "Yes, macOS Picture-in-Picture Works With YouTube"
+title: "Yes, macOS Picture-in-Picture Works With YouTube"
 layout: post
 ---
 
