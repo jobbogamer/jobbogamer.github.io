@@ -48,7 +48,7 @@ computer is there waiting for you. Isn't that a great idea for the _experience_
 of using a Mac? Having a startup chime would break that illusion.
 
 Keeping things around just because they've always been there isn't how you design
-future generations of products.
+future generations of products. Just ask the headphone jack on your iPhone 7.
 
 Nostalgia may be a nice feeling once in a while, but it is not a feature.
 
