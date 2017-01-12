@@ -30,7 +30,7 @@ I'm taken to that video, by itself, and when it ends, it just… ends.
 
 I'm sure there's a very small market for this extension, because the main point
 of YouTube playlists is to be able to watch them all in one go. But if it sounds
-like something you want, it's available to install the [Chrome webstore][chrome].
+like something you want, it's available to install from the [Chrome webstore][chrome].
 
 For Safari, it's a little more complicated; to create an actual `.safariextz`
 file, you have to be a member of the Apple Developer Program, which costs $99 per
