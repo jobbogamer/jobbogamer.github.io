@@ -12,6 +12,8 @@ playlist page on YouTube (youtube.com/playlist?list=xyz). On a playlist page,
 it adds a little button next to each video in the list. That button opens the
 watch page for the video.
 
+![Playlist Abandoner Screenshot][screenshot]
+
 "But wait," you say, "doesn't clicking the video _already_ open the video's
 watch page?!". Well, yes, but there's one key difference: when you click on a
 video in a playlist, it opens the video in the context of the playlist, which
@@ -40,3 +42,4 @@ To install the extension in Safari, you'll need to follow the instructions
 [projects]: http://joshasch.com/projects
 [github]: https://github.com/jobbogamer/PlaylistAnalyser
 [chrome]: https://chrome.google.com/webstore/detail/playlist-abandoner/bofdplnnckbbkffmkpmndfljedbldafo
+[screenshot]: /images/2017/01/12/playlist-abandoner.png
