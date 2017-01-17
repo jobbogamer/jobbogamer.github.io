@@ -40,6 +40,6 @@ To install the extension in Safari, you'll need to follow the instructions
 [here][github].
 
 [projects]: http://joshasch.com/projects
-[github]: https://github.com/jobbogamer/PlaylistAnalyser
+[github]: https://github.com/jobbogamer/PlaylistAbandoner
 [chrome]: https://chrome.google.com/webstore/detail/playlist-abandoner/bofdplnnckbbkffmkpmndfljedbldafo
 [screenshot]: /images/2017/01/12/playlist-abandoner.png
