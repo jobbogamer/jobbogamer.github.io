@@ -18,4 +18,4 @@ The web app itself can be found at [josh-asch.net/emoji][1], and it's open sourc
 [1]: /emoji/
 [2]: http://github.com/jobbogamer/EmojiBoard
 
-[img1]: /images/2013/12/29/EmojiBoard.png =320x568
+[img1]: /images/2013/12/29/EmojiBoard.png
