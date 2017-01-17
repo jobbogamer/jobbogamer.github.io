@@ -5,6 +5,10 @@ categories: [iOS]
 layout: post
 ---
 
+**Note**: EmojiBoard is no longer under active development, and has not been updated with new Emoji since 2013. It is also no longer being hosted on my site. I'm keeping this post around as a historical archive.
+
+***
+
 I like to use Emoji symbols when I'm using my iPhone or iPad, but I don't like having to keep the Emoji keyboard turned on. I always end up hitting the 'change keyboard' button by accident. I set up a few text shortcuts to the symbols I use the most, but there's no easy way to access the other symbols. So I made one. <!-- more -->
 
 ![][img1]
