@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Bounce</title>
+        <link rel="stylesheet" href="bounce.css" />
+        <script type="text/javascript">
+            function bounce() {
+                var img = document.getElementById("teddy");
+
+                var width = 256;
+                var height = 217;
+
+                var maxX = 1920 - width;
+                var maxY = 1080 - height;
+
+                // Start along the top edge but offset so we don't hit the corner
+                x = 64;
+                y = 0;
+
+                // Start towards the bottom right
+                var dx = 1;
+                var dy = 1;
+
+                setInterval(function () {
+                    // If we're about to bounce off an edge, flip the direction
+                    if ((dx > 0 && x >= maxX) ||
+                        (dx < 0 && x <= 0)) {
+                        dx = -dx;
+                        console.log("Bounced at (" + x + ", " + y + ")");
+                    }
+                    if ((dy > 0 && y >= maxY) ||
+                        (dy < 0 && y <= 0)) {
+                        dy = -dy;
+                        console.log("Bounced at (" + x + ", " + y + ")");
+                    }
+
+                    // Update position
+                    x += dx;
+                    y += dy;
+
+                    img.style.left = x + "px";
+                    img.style.top = y + "px";
+
+                }, 16.667);
+            }
+        </script>
+    </head>
+    <body onload="bounce()">
+        <div id="page">
+            <div id="teddy"></div>
+        </div>
+    </body>
+</html>
