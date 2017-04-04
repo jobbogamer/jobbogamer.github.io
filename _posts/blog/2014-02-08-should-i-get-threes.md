@@ -31,5 +31,5 @@ Threes! is currently £1.49 [on the App Store][1], but that's an introductory pr
 
 [1]: https://itunes.apple.com/gb/app/threes!/id779157948?mt=8&at=10l7rn&ct=thr
 
-[img1]: /images/2014/02/08/threes-game.png =320x568
-[img2]: /images/2014/02/08/threes-menu.png =320x568
+[img1]: /images/2014/02/08/threes-game.png
+[img2]: /images/2014/02/08/threes-menu.png
