@@ -15,7 +15,6 @@ layout: null
   </author>
 
   {% for post in site.posts limit: 20 %}
-  {% if post.type != "project" %}
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}{% if post.link %} &rarr;{% endif %}]]></title>
     <link href="{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}"/>
@@ -23,6 +22,5 @@ layout: null
     <id>{{ site.url }}{{ post.id }}</id>
     <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}{% if post.link %}<p><a href="{{ site.url }}{{ post.url }}">Permalink</a></p>{% endif %}]]></content>
   </entry>
-  {% endif %}
   {% endfor %}
 </feed>

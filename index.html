@@ -3,7 +3,6 @@ layout: default
 ---
 
 			{% for post in paginator.posts %}
-				{% if post.type != "project" %}
 				<article>
 					<div class="post-header">
 						<h2 class="post-title"><a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}</h2>
@@ -17,11 +16,10 @@ layout: default
 						{% if post.content contains "<!-- more -->" %}<p><a href="{{ post.url }}">Read the rest &rarr;</a></p>{% endif %}
 					</div><!-- .post-content -->
 				</article>
-				{% endif %}
 			{% endfor %}
-				{% if paginator.total_pages > 1 %}
+			{% if paginator.total_pages > 1 %}
 				<div id="pagination">
 					<div id="older-posts">{% if paginator.next_page %}<a href="{{ paginator.next_page_path }}">&larr; Older Posts</a>{% endif %}</div>
 					<div id="newer-posts">{% if paginator.previous_page %}<a href="{{ paginator.previous_page_path }}">Newer Posts &rarr;</a>{% endif %}</div>
 				</div><!-- #pagination -->
-				{% endif %}
+			{% endif %}
