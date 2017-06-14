@@ -8,7 +8,5 @@ permalink: /:year/:month/:day/:title/
 twitter_handle: josh_asch
 email: josh@joshasch.com
 
-highlighter: rouge
-
 paginate: 5
 paginate_path: "page/:num"
