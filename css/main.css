@@ -97,6 +97,12 @@ blockquote p {
 	margin: 0;
 }
 
+figcaption {
+    font-size: 0.8em;
+    text-align: center;
+    font-style: italic;
+}
+
 div#masthead {
 	background-color: #f5f5f5;
 	border-bottom: 1px solid #cccccc;
