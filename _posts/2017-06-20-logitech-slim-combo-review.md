@@ -24,7 +24,7 @@ Now let's talk about the other major flaw, the sheer size and bulk. For a produc
 
 {% include image.html url="/images/2017/06/20/slim-combo-thickness-comparison.jpg" description="At its widest, the Slim Combo (right) is nearly twice as thick as the Create (left)." %}
 
-Overall, for £109.95, the Slim Combo doesn't offer anywhere near as much value as the Create did, and it certainly doesn't live up to its name. Even though I really liked the Create with my 9.7-inch iPad, I've returned the Slim Combo and opted for the 10.5-inch Smart Keyboard instead. Even though the Smart Keyboard is £40 more expensive, it's a much nicer experience, and feels a lot more like an iPad keyboard should.
+Overall, for £109.95, the Slim Combo doesn't offer anywhere near as much value as the Create did, and it certainly doesn't live up to its name. Even though I really liked the Create with my 9.7-inch iPad, I've returned the Slim Combo and opted for the 10.5-inch Smart Keyboard instead. The Smart Keyboard may be £40 more expensive, but it's a much nicer experience, and feels a lot more like an iPad keyboard should.
 
 [productshot]: /images/2017/06/20/slim-combo-product-shot.jpg
 [thickness]: /images/2017/06/20/slim-combo-thickness-comparison.jpg
