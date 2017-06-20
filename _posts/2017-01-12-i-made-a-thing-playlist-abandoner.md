@@ -3,9 +3,6 @@ title: "I Made a Thing: Playlist Abandoner"
 layout: post
 ---
 
-It's been a while since I had to update the [Projects page][projects], but it
-finally happened for the first time since _October 2015_.
-
 I've written a tiny browser extension for Safari and Chrome called
 [Playlist Abandoner][github]. It does absolutely nothing until you go to a
 playlist page on YouTube (youtube.com/playlist?list=xyz). On a playlist page,
