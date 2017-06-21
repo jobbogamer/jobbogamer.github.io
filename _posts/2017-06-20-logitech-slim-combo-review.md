@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Review: Logitech Slim Combo for 10.5-inch iPad Pro"
 layout: post
 ---
