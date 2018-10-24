@@ -1,0 +1,64 @@
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #0a0a0a;
+  }
+
+  body {
+    background-color: #161616;
+    color: #ffffff;
+  }
+
+  hr {
+    border-top: 1px solid #444444;
+  }
+
+  pre,
+  code {
+    background-color: #1a1a1a;
+    border: 1px solid #000000;
+  }
+
+  blockquote {
+    border-left: 8px solid #444444;
+    background-color: #242424;
+  }
+
+  div#masthead {
+    background-color: #202020;
+    border-bottom: 1px solid #444444;
+  }
+
+  div#navigation {
+    border-bottom: 1px solid #444444;
+  }
+
+  span.link-arrow {
+    color: #888888;
+  }
+
+  span.post-date {
+    color: #888888;
+  }
+
+  div.content {
+    border-bottom: 1px solid #444444;
+  }
+
+  div.highlight {
+    border: 1px solid #444444;
+    background: #f1f1f1;
+  }
+
+  div#footer {
+    background-color: #202020;
+    border-top: 1px solid #444444;
+  }
+
+  div#archive h2 {
+    border-top: 1px solid #444444;
+  }
+
+  div#archive span.date {
+    color: #888888;
+  }
+}
