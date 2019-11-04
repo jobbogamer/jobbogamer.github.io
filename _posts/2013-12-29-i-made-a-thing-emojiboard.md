@@ -17,8 +17,6 @@ I call it EmojiBoard. It's a web app which lists all the Emoji symbols that work
 
 It works best on iPhone and iPad, and will probably work on Android, but doesn't work on desktop, since it relies on touch.
 
-The web app itself can be found at [josh-asch.net/emoji][1], and it's open source, so the source can be found [on GitHub][2].
-
 [1]: /emoji/
 [2]: http://github.com/jobbogamer/EmojiBoard
 

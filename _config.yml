@@ -1,12 +1,12 @@
-name: Josh Asch
-author: Josh Asch
-description: "The random ramblings of Josh Asch, a Computer Science student from the UK."
-url: "http://joshasch.com"
+name: Liv Asch
+author: Liv Asch
+description: "The random ramblings of Liv Asch, a software engineer from the UK."
+url: "http://bearhat.co.uk"
 
 permalink: /:year/:month/:day/:title/
 
-twitter_handle: josh_asch
-email: josh@joshasch.com
+twitter_handle: jobbogamer
+email: olivia@bearhat.co.uk
 
 paginate: 5
 paginate_path: "page/:num"
