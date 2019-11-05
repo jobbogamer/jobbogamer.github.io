@@ -18,6 +18,6 @@ I call it EmojiBoard. It's a web app which lists all the Emoji symbols that work
 It works best on iPhone and iPad, and will probably work on Android, but doesn't work on desktop, since it relies on touch.
 
 [1]: /emoji/
-[2]: http://github.com/jobbogamer/EmojiBoard
+[2]: http://github.com/olivvysaur/EmojiBoard
 
 [img1]: /images/2013/12/29/EmojiBoard.png

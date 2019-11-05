@@ -44,6 +44,6 @@ Don't forget, the whole point of Letterpress is to enjoy the time you spend play
 
 [1]: https://itunes.apple.com/gb/app/letterpress-word-game/id526619424?mt=8&at=10l7rn
 [2]: http://www.atebits.com/letterpress/
-[3]: https://twitter.com/jobbogamer/status/282226813567131648
+[3]: https://twitter.com/olivvysaur/status/282226813567131648
 
 [img1]: {{ site.url }}/images/2012/12/23/Letterpress_Territory_Example.png =640x320
